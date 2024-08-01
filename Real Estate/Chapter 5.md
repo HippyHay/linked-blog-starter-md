@@ -82,3 +82,38 @@ With compliance, one important difference worth calling out is that appraisals m
 5. Establish a listing price range.
 working outside in 
 
+Compare trends in the area, the appreciation rate, what's going on in the mortgage market
+
+## Broker's Price Opinion
+
+**Broker price opinion (BPO)** is a broker’s opinion of the value of a piece of real property, given in writing.
+Created by a real estate license holder, not a licensed appraiser.
+
+#### Compliance
+There are a few rules and regulations that govern BPOs:
+- BPOs may NOT be represented as appraisals.
+- Sales associates may perform a BPO for compensation but may only do so under the supervision of their employing broker.
+- Compensation paid for a BPO must be given to the broker.
+- USPAP regulations do NOT apply to BPOs.
+
+BPOs are less accurate than appraisals and CMAs
+- BPOs are typically utilized during the foreclosure process.
+- Relocation companies or lenders going through a short sale or similar process would likely utilize a BPO.
+- They cost less 
+
+![](https://d1u7daj727sadp.cloudfront.net/images/FL.PL_ValuationProducts_4389.png)
+
+
+## Financing
+### Third-Party Financing
+- Mortgage brokerage companies
+- Credit unions
+- Savings associations
+- Commercial banks
+### Mortgage Loan Origination
+Mortgages are typically how clients go about borrowing and lending the capital they need to make their purchase.
+Loan origination is the multi-step process through which a borrower obtains a mortgage loan from a lender.
+
+### Your Role with Bankers and Brokers
+You should expect that your clients will come to you for references of reputable MLOs in the area. Any recommendation a client receives from you can be verified by their own research for online reviews.
+
