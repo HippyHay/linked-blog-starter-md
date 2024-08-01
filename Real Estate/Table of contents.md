@@ -12,3 +12,5 @@
 - Identify difficulties around receiving approval
 - Distinguish among the three categories of residential construction
 - Describe zoning and why it is important
+
+[[Chapter 7]]

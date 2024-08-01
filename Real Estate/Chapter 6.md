@@ -47,4 +47,12 @@ Improving the land and making it into smaller units, making it usable and produc
 - **Custom homes** - built to the custome specifications of a home buyer
 
 #### Zoning 
-Impacts what can be built where, under what conditions, and how much of each construction is allowed. Divisionermitted, prohibited, and regulates the use of land. Create Zoning ordinacnes, 
+Impacts what can be built where, under what conditions, and how much of each construction is allowed. Division of land within a jurisdiction into different districts that uses are permitted, prohibited, and regulates the use of land. Create 
+**Zoning ordinances** - local laws that control how land is used and what structures can be built
+Developers have to be aware of zoning laws, enforced by local government 
+
+
+### Video closeout
+Real estate provides jobs in agents, apraisers, attornets, and accountants 
+Brokergage is invovled in:
+Sales, Leasing, Counceling, propery management, valuation, Developement an
