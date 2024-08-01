@@ -69,4 +69,9 @@ In spite of those differences, a CMA and an appraisal have a few **commonalitie
 - Both are used to arrive at a fair market value of a property.
 - Both use a sales comparison approach that is based on the principle of substitution and the principle of contribution.
 
-With compliance, One important difference worth calling out is that appraisals must conform to USPAP standards but CMAs do not.
+With compliance, one important difference worth calling out is that appraisals must conform to USPAP standards but CMAs do not.
+
+![A Venn Diagram describing the unique characteristics of appraisals and comparative market analysis.](https://d1u7daj727sadp.cloudfront.net/images/FL.PL_AppraisalCMA_CEP226.png)
+
+
+## Creating a CMA
