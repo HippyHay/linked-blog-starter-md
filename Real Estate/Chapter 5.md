@@ -75,3 +75,9 @@ With compliance, one important difference worth calling out is that appraisals m
 
 
 ## Creating a CMA
+1. Evaluate the neighborhood.
+2. Evaluate the subject property.
+3. Find comparables.
+4. Compare and adjust selected comparables.
+5. Establish a listing price range.
+
