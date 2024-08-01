@@ -1,4 +1,17 @@
-specialty worth noting within the field of property management is a **community association manager (CAM). The difference between a property manager** and a community association manager is that a community association manager must hold a CAM license, while a property manager does not need a CAM license. CAMs manage community associations such as:
+community association manager (CAM)  
+property management  
+property manager  
+absentee owner  
+  
+Property manager  
+Absentee owner is a property owner who does not occupy the property in question and therefore often utilizes a property manager’s services.  
+  
+Property managers have many responsibilities but their most important responsibility is to realize the highest return possible on the owner's investment.
+
+![[unnamed.jpg]]
+
+
+Specialty worth noting within the field of property management is a **community association manager (CAM). The difference between a property manager** and a community association manager is that a community association manager must hold a CAM license, while a property manager does not need a CAM license. CAMs manage community associations such as:
 - Mobile home parks
 - Planned unit developments (PUDs)
 - Homeowners associations
