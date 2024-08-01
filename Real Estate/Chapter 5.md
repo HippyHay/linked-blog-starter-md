@@ -25,6 +25,14 @@ In Florida appraisers aren't the only ones who can file a appraisal
 
 **Uniform Standards of Professional Appraisal Practice (USPAP)** is an agency charged with overseeing, regulating, and promulgating real estate appraisals and appraisal practices.
 
-**it is unethical for an appraiser to accept compensation based on the value of a property**
+**It is unethical for an appraiser to accept compensation based on the value of a property**
 
+What can be Appraised: 
+- Single-family homes
+- Apartment buildings
+- Condominiums
+- Offices
+- Shopping centers
+- Farms
+- Commercial buildings
 
