@@ -36,3 +36,12 @@ What can be Appraised:
 - Farms
 - Commercial buildings
 
+Situations involving appraisal :
+- Any sale of real estate
+- Mortgage lending, especially for government-backed loans
+- Setting rental rates for leased property
+- Finding investment values
+- Government acquisitions of property, such as eminent domain
+- Acquiring property insurance
+- Tax assessment appeals
+
