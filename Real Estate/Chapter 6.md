@@ -53,6 +53,13 @@ Developers have to be aware of zoning laws, enforced by local government
 
 
 ### Video closeout
-Real estate provides jobs in agents, apraisers, attornets, and accountants 
-Brokergage is invovled in:
-Sales, Leasing, Counceling, propery management, valuation, Developement an
+Real estate provides jobs in agents, appraisers, attorneys, and accountants 
+Brokerage is involved in:
+Sales, Leasing, Counseling, property management, valuation, Development and Construction
+Sales and Leasing, using farming to target market to a specific area
+Absentee owner - someone who doesn't occupy property 
+Financing and Valuation: Appraisals, CMAs, and BPOs
+Mortgages, third party financing to help fund 
+Have to be familiar with the processes of construction on land
+Spec home, track home, and spec homes
+
