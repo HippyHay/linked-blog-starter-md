@@ -89,3 +89,25 @@ Compare trends in the area, the appreciation rate, what's going on in the mortga
 **Broker price opinion (BPO)** is a broker’s opinion of the value of a piece of real property, given in writing.
 Created by a real estate license holder, not a licensed appraiser.
 
+#### Compliance
+There are a few rules and regulations that govern BPOs:
+- BPOs may NOT be represented as appraisals.
+- Sales associates may perform a BPO for compensation but may only do so under the supervision of their employing broker.
+- Compensation paid for a BPO must be given to the broker.
+- USPAP regulations do NOT apply to BPOs.
+
+BPOs are less accurate than appraisals and CMAs
+- BPOs are typically utilized during the foreclosure process.
+- Relocation companies or lenders going through a short sale or similar process would likely utilize a BPO.
+- They cost less 
+
+![](https://d1u7daj727sadp.cloudfront.net/images/FL.PL_ValuationProducts_4389.png)
+
+
+## Financing
+### Third-Party Financing
+- Mortgage brokerage companies
+- Credit unions
+- Savings associations
+- Commercial banks
+
