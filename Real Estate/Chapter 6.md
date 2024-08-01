@@ -31,6 +31,12 @@ Improving the land and making it into smaller units, making it usable and produc
 3. Recording the subdivision plat map
 
 #### Steps to Approval
-Inital Planning Stage - Surveying the land, planning out its location on paper before land is purchased
-City Review and Approval - Checks to see if it matches regulations with the city
-Fianl Planing stage - all is paproved, finalzed, and submissted to whereever has jurisdiction, depending on municipalities 
+1. **Initial Planning Stage** - Surveying the land, planning out its location on paper before land is purchased
+2. **City Review and Approval -** Checks to see if it matches regulations with the city
+3. **Final Planing stage** - all is approved, finalized, and submitted to where-ever has jurisdiction, depending on municipalities setup
+4. **Purchasing the property** - at this point they get offered a certificate from the city
+5. **Startup stage** - infrastructure put into place, roads placed, and lots are ready for the new home owners to begin there construction
+
+### Dedication 
+- a gift of land to the government for public use given by the property owner 
+- 
