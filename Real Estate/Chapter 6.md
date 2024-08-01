@@ -38,5 +38,13 @@ Improving the land and making it into smaller units, making it usable and produc
 5. **Startup stage** - infrastructure put into place, roads placed, and lots are ready for the new home owners to begin there construction
 
 ### Dedication 
-- a gift of land to the government for public use given by the property owner 
-- 
+- a gift of land to the government for public use given by the property owner, giving them ownership and responsibility
+- ex. a development can dedicate the streets and sidewalks to the government so they manage it
+
+### Types of Residential Construction
+- **Speculative (or spec) homes** - homes built without an identified buyer in mind
+- **Tract homes** - Type of spec home, suburbs filled with them (model homes)
+- **Custom homes** - built to the custome specifications of a home buyer
+
+#### Zoning 
+Impacts what can be built where, under what conditions, and how much of each construction is allowed. Divisionermitted, prohibited, and regulates the use of land. Create Zoning ordinacnes, 
