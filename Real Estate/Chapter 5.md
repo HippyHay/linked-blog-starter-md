@@ -45,3 +45,9 @@ Situations involving appraisal :
 - Acquiring property insurance
 - Tax assessment appeals
 
+ The lender chooses an appraiser, not a report
+
+# Comparative Market Analysis
+
+**Comparative market analysis (CMA)** is a report that compares the prices of recently sold or listed homes ("comparables") in order to estimate the market value of a similar property (the "subject property") located in the same area.
+
