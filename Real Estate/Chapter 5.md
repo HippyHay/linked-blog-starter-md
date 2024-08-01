@@ -22,3 +22,8 @@ An **appraiser** is an individual who is trained and licensed to perform apprais
 In Florida appraisers aren't the only ones who can file a appraisal 
 - In Florida, a state-licensed and certified appraiser is the only one who can do an appraisal for federally-related transactions
 - A real estate licensee may perform an appraisal and receive compensation for doing so in all other, non-federal transactions.
+
+**Uniform Standards of Professional Appraisal Practice (USPAP)** is an agency charged with overseeing, regulating, and promulgating real estate appraisals and appraisal practices.
+
+**it is unethical for an appraiser to accept compensation based on the value of a property**
+
