@@ -51,3 +51,7 @@ Situations involving appraisal :
 
 **Comparative market analysis (CMA)** is a report that compares the prices of recently sold or listed homes ("comparables") in order to estimate the market value of a similar property (the "subject property") located in the same area.
 
+CMAs, though similar in some ways to an appraisal, are NOT appraisals and may NOT be represented as an appraisal.
+
+## Zillow = WebMD
+
