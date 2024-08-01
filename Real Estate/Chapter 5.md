@@ -82,3 +82,4 @@ With compliance, one important difference worth calling out is that appraisals m
 5. Establish a listing price range.
 working outside in 
 
+Compare trennds in the area, 
