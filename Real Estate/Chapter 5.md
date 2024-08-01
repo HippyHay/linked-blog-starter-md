@@ -53,5 +53,20 @@ Situations involving appraisal :
 
 CMAs, though similar in some ways to an appraisal, are NOT appraisals and may NOT be represented as an appraisal.
 
-## Zillow = WebMD
+### Zillow = WebMD
 
+
+## CMA vs. Appraisal
+not the same
+
+Here are a few significant **differences** between the two:
+- You sometimes have to have an appraiser's license to create an appraisal.
+- An appraisal is usually done for a fee.
+- A CMA is usually done for free.
+- A CMA is less detailed AND less reliable than an appraisal
+
+In spite of those differences, a CMA and an appraisal have a few **commonalities**:
+- Both are used to arrive at a fair market value of a property.
+- Both use a sales comparison approach that is based on the principle of substitution and the principle of contribution.
+
+With compliance, One important difference worth calling out is that appraisals must conform to USPAP standards but CMAs do not.
