@@ -111,3 +111,9 @@ BPOs are less accurate than appraisals and CMAs
 - Savings associations
 - Commercial banks
 ### Mortgage Loan Origination
+Mortgages are typically how clients go about borrowing and lending the capital they need to make their purchase.
+Loan origination is the multi-step process through which a borrower obtains a mortgage loan from a lender.
+
+### Your Role with Bankers and Brokers
+You should expect that your clients will come to you for references of reputable MLOs in the area. Any recommendation a client receives from you can be verified by their own research for online reviews.
+
