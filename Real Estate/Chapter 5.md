@@ -27,3 +27,4 @@ In Florida appraisers aren't the only ones who can file a appraisal
 
 **it is unethical for an appraiser to accept compensation based on the value of a property**
 
+
