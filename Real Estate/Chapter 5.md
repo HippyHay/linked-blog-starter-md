@@ -82,4 +82,9 @@ With compliance, one important difference worth calling out is that appraisals m
 5. Establish a listing price range.
 working outside in 
 
-Compare trennds in the area, 
+Compare trends in the area, the appreciation rate, what's going on in the mortgage market
+
+## Broker's Price Opinion
+
+**Broker price opinion (BPO)** is a broker’s opinion of the value of a piece of real property, given in writing
+
