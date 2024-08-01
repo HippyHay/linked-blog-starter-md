@@ -8,3 +8,7 @@
 - The purpose of a CMA and broker’s opinion of value (BOV)
 
 [[Chapter 6]]
+- Explain the phases of development and construction
+- Identify difficulties around receiving approval
+- Distinguish among the three categories of residential construction
+- Describe zoning and why it is important
