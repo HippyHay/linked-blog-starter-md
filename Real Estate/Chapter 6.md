@@ -62,4 +62,3 @@ Financing and Valuation: Appraisals, CMAs, and BPOs
 Mortgages, third party financing to help fund 
 Have to be familiar with the processes of construction on land
 Spec home, track home, and spec homes
-
