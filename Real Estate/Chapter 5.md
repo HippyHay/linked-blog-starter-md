@@ -86,5 +86,6 @@ Compare trends in the area, the appreciation rate, what's going on in the mortga
 
 ## Broker's Price Opinion
 
-**Broker price opinion (BPO)** is a broker’s opinion of the value of a piece of real property, given in writing
+**Broker price opinion (BPO)** is a broker’s opinion of the value of a piece of real property, given in writing.
+Created by a real estate license holder, not a licensed appraiser.
 
