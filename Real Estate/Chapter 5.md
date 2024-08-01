@@ -80,4 +80,5 @@ With compliance, one important difference worth calling out is that appraisals m
 3. Find comparables.
 4. Compare and adjust selected comparables.
 5. Establish a listing price range.
+working outside in 
 
