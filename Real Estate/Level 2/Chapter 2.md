@@ -25,4 +25,11 @@ There are three main **types of real estate licensees in Florida:
 - Broker associate (475.01, F.S.).**
 ### Broker 
 A person or business entity who is licensed to represent one of the parties in a real estate transaction in exchange for a commission or other valuable consideration. A broker supervises sales associates and broker associates.
+### Sales Associate
+A **sales associate** is a real estate license holder who is associated with a licensed broker for the purpose of performing real estate brokerage acts on the broker’s behalf.
+(A salesperson can't accept compensation directly from a principal; it must come from their own broker.)
+
+A sales associate must be supervised by either a broker or an owner-developer, which is an unlicensed entity that sells, exchanges or leases its own property. Salaried staff members of an owner-developer can work without a license: A sales associate license is only necessary if the employee is paid commission.
+
+### Broker Associate
 
