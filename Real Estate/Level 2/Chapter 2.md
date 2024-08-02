@@ -16,3 +16,6 @@ must disclose if the applicant:
 - Are currently under investigation by a professional licensing agency, in Florida or elsewhere
 - Are guilty of any conduct or practice that would have been grounds for suspension or revocation under Chapter 475, F.S.
 
+The Commission will use an applicant's social security number to determine if they owe child support to anyone
+
+### Types of Real 
