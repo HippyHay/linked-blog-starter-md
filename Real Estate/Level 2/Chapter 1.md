@@ -76,6 +76,8 @@ Chapter 120 is entitled **the Administrative Procedure Act** and it has to do 
 
 rules for implementing agency actions, like licensure and disciplinary actions
 
+where you would find a law specifying applicants have 21 days to appeal a rejected application
+
 Chapter 120 lays out how all regulatory agencies (for example, the FREC) carry out their licensing procedures and disciplinary processes.
 
 ![A review of Florida real estate laws and what they do.](https://d1u7daj727sadp.cloudfront.net/images/FL_GoverningLaws_4419.png)
