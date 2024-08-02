@@ -14,7 +14,9 @@ The DBPR handle most of the administrative work, like recording registrations an
 
 ## Florida Statute Chapter 475
 A collection of statutes that deal with real estate. Citations are where to look in the law to find the relavent legal text.
-ex: 475.001, F.S. = What that is telling you is that you can find the relevant law in the Florida statutes (F.S.), chapter 475, subchapter 001.
+
+Example: 
+**475.001, F.S.** = What that is telling you is that you can find the relevant law in the Florida statutes (F.S.), chapter 475, subchapter 001.
 
 Broken up into 4 parts
 1. **Real estate brokers, sales associates, and schools:** This is where most of the stuff we're interested in lives. It regulates brokers, sales associates, and schools.
@@ -33,4 +35,20 @@ Examples of what you'll find:
 ## 61J2 of the Florida Administrative Code
 Set of rules created by the FREC to enforce Chapter 475
 FREC enforces the law
-61J2 is the how to Chapt
+**61J2 is the *how* to Chapter 475s *what*** 
+Florida Administration code contains all types of professions and scenarios, not just real estate, thats why it has that name. 
+
+Example: 
+**61J2-3.015, F.A.C. F.A.C.** stands for Florida Administrative Code, 61J2 tells you to look in part 61, J2 (where the real estate rules live), and 3.015 tells you to look in chapter three (Minimum Educational Requirements), part 015 (Notice of Satisfactory Course Completion).
+
+## Chapter 20, Florida Statutes
+All others that aren't Chapter 475 or 61JR
+**Chapter 20 established the organizational structure of the executive branch.**
+
+**DPBR:**
+The Department of Business and Professional Regulation (DBPR) lives in the executive branch. **The DBPR is the entity that actually records and issues licenses.**
+
+**Example:**
+**20.001, F.S.**, or even just Chapter 20, F.S.
+
+
