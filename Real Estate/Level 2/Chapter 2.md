@@ -56,4 +56,12 @@ What real estate services are:
 **A**uctioning
 **C**losing on property or businesses
 **E**xchanging property or businesses
+## Compensation
+valuable consideration directly or indirectly paid or promised, expressly or impliedly, or with an intent to collect or receive a compensation or valuable consideration therefor.
+## No Freebies
+If someone is giving you something to perform real estate services for them, you're being compensated, and you need a license.
+## No Sharing
+License holders cannot share their commission with an unlicensed person, including by giving them a referral fee.
+## Presumption of Doing Real Estate (475.43, F.S.)
+If you advise someone on their real estate dealings, you or your broker could be held liable.
 
