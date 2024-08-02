@@ -38,6 +38,8 @@ FREC enforces the law
 **61J2 is the *how* to Chapter 475s *what*** 
 Florida Administration code contains all types of professions and scenarios, not just real estate, thats why it has that name. 
 
+the FREC-created rules for real estate in Florida
+
 Example: 
 **61J2-3.015, F.A.C. F.A.C.** stands for Florida Administrative Code, 61J2 tells you to look in part 61, J2 (where the real estate rules live), and 3.015 tells you to look in chapter three (Minimum Educational Requirements), part 015 (Notice of Satisfactory Course Completion).
 
