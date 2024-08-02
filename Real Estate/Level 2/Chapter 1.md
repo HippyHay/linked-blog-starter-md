@@ -46,9 +46,23 @@ All others that aren't Chapter 475 or 61JR
 **Chapter 20 established the organizational structure of the executive branch.**
 
 **DPBR:**
-The Department of Business and Professional Regulation (DBPR) lives in the executive branch. **The DBPR is the entity that actually records and issues licenses.**
+The Department of Business and Professional Regulation (DBPR) lives in the executive branch. 
+**The DBPR is the entity that actually records and issues licenses.**
 
 **Example:**
 **20.001, F.S.**, or even just Chapter 20, F.S.
 
+## Chapter 455, Florida Statutes
+Sets out general rules covering all processions regulated by the DBPR
+Chapter 455 codifies the general practices and procedures used by the DBPR.
+#### 455.10, F.S.
+One very important part of Chapter 455 is subchapter 10, which says that **one does not need to be a U.S. citizen to get a professional license in Florida.** But you do need a SSN
+
+Example:
+First the chapter (455), then the subchapter (.10), then the reference to the law (F.S., for Florida statutes)
+
+## Chapter 120, Florida Statutes
+Chapter 120 is entitled **the Administrative Procedure Act** and it has to do with how regulatory agencies decide and implement agency action.
+
+Chapter 120 lays out how all regulatory agencies (for example, the FREC) carry out their licensing procedures and disciplinary processes.
 
