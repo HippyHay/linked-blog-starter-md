@@ -17,7 +17,6 @@ must disclose if the applicant:
 - Are guilty of any conduct or practice that would have been grounds for suspension or revocation under Chapter 475, F.S.
 
 The Commission will use an applicant's social security number to determine if they owe child support to anyone
-
 ## Types of Real estate Licenses 
 There are three main **types of real estate licensees in Florida: 
 - Broker
@@ -30,6 +29,9 @@ A **sales associate** is a real estate license holder who is associated with a
 (A salesperson can't accept compensation directly from a principal; it must come from their own broker.)
 
 A sales associate must be supervised by either a broker or an owner-developer, which is an unlicensed entity that sells, exchanges or leases its own property. Salaried staff members of an owner-developer can work without a license: A sales associate license is only necessary if the employee is paid commission.
-
 ### Broker Associate
+an individual who meets the licensure requirements to be a real estate broker but provides real estate brokerage services as an independent contractor to a real estate broker.
+A **broker associate** is a person who has passed the broker exam, but chooses to work under a sponsoring broker.
 
+# Who needs a license?
+A license is a must-have for anyone who wants to provide **real estate services**.
