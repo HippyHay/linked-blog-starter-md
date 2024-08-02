@@ -15,6 +15,8 @@ The DBPR handle most of the administrative work, like recording registrations an
 ## Florida Statute Chapter 475
 A collection of statutes that deal with real estate. Citations are where to look in the law to find the relavent legal text.
 
+where you would find the law about how much pre-licensing education a sales associate needs
+
 Example: 
 **475.001, F.S.** = What that is telling you is that you can find the relevant law in the Florida statutes (F.S.), chapter 475, subchapter 001.
 
@@ -38,6 +40,8 @@ FREC enforces the law
 **61J2 is the *how* to Chapter 475s *what*** 
 Florida Administration code contains all types of professions and scenarios, not just real estate, thats why it has that name. 
 
+where you would find FREC's rules about application fees for sales associates
+
 the FREC-created rules for real estate in Florida
 
 Example: 
@@ -46,6 +50,8 @@ Example:
 ## Chapter 20, Florida Statutes
 All others that aren't Chapter 475 or 61JR
 **Chapter 20 established the organizational structure of the executive branch.**
+
+where you would find the laws creating the DBPR
 
 **DPBR:**
 The Department of Business and Professional Regulation (DBPR) lives in the executive branch. 
@@ -57,6 +63,8 @@ The Department of Business and Professional Regulation (DBPR) lives in the execu
 ## Chapter 455, Florida Statutes
 Sets out general rules covering all processions regulated by the DBPR
 Chapter 455 codifies the general practices and procedures used by the DBPR.
+
+creates rules and procedures for the DBPR
 #### 455.10, F.S.
 One very important part of Chapter 455 is subchapter 10, which says that **one does not need to be a U.S. citizen to get a professional license in Florida.** But you do need a SSN
 
@@ -65,6 +73,8 @@ First the chapter (455), then the subchapter (.10), then the reference to the la
 
 ## Chapter 120, Florida Statutes
 Chapter 120 is entitled **the Administrative Procedure Act** and it has to do with how regulatory agencies decide and implement agency action.
+
+rules for implementing agency actions, like licensure and disciplinary actions
 
 Chapter 120 lays out how all regulatory agencies (for example, the FREC) carry out their licensing procedures and disciplinary processes.
 
