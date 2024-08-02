@@ -18,4 +18,11 @@ must disclose if the applicant:
 
 The Commission will use an applicant's social security number to determine if they owe child support to anyone
 
-### Types of Real 
+## Types of Real estate Licenses 
+There are three main **types of real estate licensees in Florida: 
+- Broker
+- Sales associate
+- Broker associate (475.01, F.S.).**
+### Broker 
+A person or business entity who is licensed to represent one of the parties in a real estate transaction in exchange for a commission or other valuable consideration. A broker supervises sales associates and broker associates.
+
