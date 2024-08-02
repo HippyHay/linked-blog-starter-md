@@ -35,3 +35,24 @@ A **broker associate** is a person who has passed the broker exam, but chooses
 
 # Who needs a license?
 A license is a must-have for anyone who wants to provide **real estate services**.
+## Real Estate Services (475.01, F.S.)
+If you're doing any of these, you're performing a real estate service:
+- Appraise, auction, sell, buy, rent, exchange, or lease real property, including mineral rights
+- Appraise, auction, sell, buy, rent, exchange, or lease business enterprises or opportunities
+- Advertise that you will do either of the above
+- Negotiate or close a real estate transaction or the sale of a business
+## Businesses Are Real Estate in Florida 
+You need a real estate license to sell a business
+
+What real estate services are:
+**NASAL BRACE**
+**N**egotiating
+**A**dvertising real estate services
+**S**elling
+**A**ppraising
+**L**easing
+**B**uying
+**R**enting
+**A**uctioning
+**C**losing on property or businesses
+**E**xchanging property or businesses
