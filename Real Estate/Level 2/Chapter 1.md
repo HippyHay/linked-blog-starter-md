@@ -66,3 +66,10 @@ Chapter 120 is entitled **the Administrative Procedure Act** and it has to do 
 
 Chapter 120 lays out how all regulatory agencies (for example, the FREC) carry out their licensing procedures and disciplinary processes.
 
+![A review of Florida real estate laws and what they do.](https://d1u7daj727sadp.cloudfront.net/images/FL_GoverningLaws_4419.png)
+
+**Chapter 455** outlines the rules, _in general_, for professions regulated by the DPBR. It explains what the DBPR is in charge of what FREC is in charge of. It makes a general set of rules for all professions.
+
+**Chapter 120** has the rules for what the FREC and other regulatory bodies have to do in terms of licensing and licensee discipline. It covers things like how long the FREC can take to accept or reject an application. It DOESN'T cover the specific rules for who can apply for which kind of license. That's in Chapter 475. Think of it like Chapter 120 makes the rules for the FREC, and Chapter 475 makes the rules for licensees.
+
+**Chapter 475** has all of the laws specific to the practice of real estate. This law outlines who can apply for a license, what the licensing exam looks like, and how to maintain a license. Makes sense? Good!
