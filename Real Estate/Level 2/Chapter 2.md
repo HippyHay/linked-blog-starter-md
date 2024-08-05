@@ -71,4 +71,6 @@ If you advise someone on their real estate dealings, you or your broker could be
 - Non-licensed property owners selling their own property can only receive as much of the profit as the amount they own, proportionally. So if you own 60% of a property, and you sell it yourself, you can only get a maximum of 60% of the profit. Otherwise, you're technically being compensated for performing real estate services for others.
 
 ### Court-Appointed Individuals
+- unlicensed individuals acting as an officer f the court can engage in some real estate activities as long as it's in the context of their authority 
+	- examples: receiver, trustee, administrator, executor
 - 
