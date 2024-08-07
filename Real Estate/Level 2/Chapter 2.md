@@ -65,12 +65,19 @@ License holders cannot share their commission with an unlicensed person, includi
 ## Presumption of Doing Real Estate (475.43, F.S.)
 If you advise someone on their real estate dealings, you or your broker could be held liable.
 ## Exempt from licensing  (475.011 F.S.)
-### Property Owners 
+### 1. Property Owners 
 - The owner of a property, whether that's a person or a firm, can manage or perform other real estate activities for their own property (or properties) without a license.
 - Also includes officers of corporation buying and selling as long as they don't commission for it
 - Non-licensed property owners selling their own property can only receive as much of the profit as the amount they own, proportionally. So if you own 60% of a property, and you sell it yourself, you can only get a maximum of 60% of the profit. Otherwise, you're technically being compensated for performing real estate services for others.
 
-### Court-Appointed Individuals
+### 2. Court-Appointed Individuals
 - unlicensed individuals acting as an officer f the court can engage in some real estate activities as long as it's in the context of their authority 
 	- examples: receiver, trustee, administrator, executor
+
+### 3. CPAs
+- A Certified Public Accountant can practice real estate as long as it's within the bounds of their normal duties.
+### 4. Salaried Property or Leasing Managers
+- A person who works in the leasing office of a building, or who acts as an employee manager of a condo or co-op building can find tenants and sign leases, as long as the leases are for no more than a year. Additionally, they MUST BE SALARIED. If they receive commission from finding tenants, they must be licensed.
+- Also, property managers of community associations with more than 10 units or with a budget of more than $100,000 a year are required to get a community association manager (CAM) license from the DBPR. This is not a real estate license, but a completely separate kind of licensure.
+### 5. Attorneys in Fact
 - 
