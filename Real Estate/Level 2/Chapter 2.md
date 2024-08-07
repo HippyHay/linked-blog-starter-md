@@ -97,4 +97,7 @@ If you advise someone on their real estate dealings, you or your broker could be
 - Hotel and motel clerks don't need a license to sell transient occupancy or public lodging.
 ### 13. Cemetery Lots
 - **Cemetery lots aren't considered real property in Florida, so you don't need to be licensed to sell them.**
-### 14. 
+### 14. Manufactured Home or RV Lot Rentals
+- You don't need a license to rent manufactured home (mobile home) lots or RV lots, because in Florida they are also not considered real property.
+### 15. Exchange Companies
+- Timeshare exchange company employees do not need to be licensed.
