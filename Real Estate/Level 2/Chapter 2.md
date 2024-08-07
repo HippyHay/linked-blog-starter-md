@@ -67,7 +67,7 @@ If you advise someone on their real estate dealings, you or your broker could be
 ## Exempt from licensing  (475.011 F.S.)
 ### Property Owners 
 - The owner of a property, whether that's a person or a firm, can manage or perform other real estate activities for their own property (or properties) without a license.
-- Also includes officers of corporation buying and selling as long as they dont commission for it
+- Also includes officers of corporation buying and selling as long as they don't commission for it
 - Non-licensed property owners selling their own property can only receive as much of the profit as the amount they own, proportionally. So if you own 60% of a property, and you sell it yourself, you can only get a maximum of 60% of the profit. Otherwise, you're technically being compensated for performing real estate services for others.
 
 ### Court-Appointed Individuals
