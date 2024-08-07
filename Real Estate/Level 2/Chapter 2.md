@@ -101,3 +101,5 @@ If you advise someone on their real estate dealings, you or your broker could be
 - You don't need a license to rent manufactured home (mobile home) lots or RV lots, because in Florida they are also not considered real property.
 ### 15. Exchange Companies
 - Timeshare exchange company employees do not need to be licensed.
+### Conclusion 
+- 
