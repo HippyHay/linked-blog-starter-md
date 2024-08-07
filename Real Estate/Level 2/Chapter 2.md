@@ -80,4 +80,21 @@ If you advise someone on their real estate dealings, you or your broker could be
 - A person who works in the leasing office of a building, or who acts as an employee manager of a condo or co-op building can find tenants and sign leases, as long as the leases are for no more than a year. Additionally, they MUST BE SALARIED. If they receive commission from finding tenants, they must be licensed.
 - Also, property managers of community associations with more than 10 units or with a budget of more than $100,000 a year are required to get a community association manager (CAM) license from the DBPR. This is not a real estate license, but a completely separate kind of licensure.
 ### 5. Attorneys in Fact
-- 
+- An attorney in fact is someone a person has designated to perform legal activities for them. So someone's designated attorney in fact can sign deeds or contracts on their behalf, for no compensation.
+### 6. Employees of Public Utilities
+- An employee of a public utility, a rural electric cooperative, a railroad, or a state or local governmental agency can rent, buy, sell, appraise, exchange, auction, or lease property as part of their normal duties for their employer, so long as they aren't paid for their work beyond their salaries.
+### 7. Just Regular Attorneys
+- Attorneys can practice real estate within the scope of their duties, but cannot be paid for it without a license.
+### 8. College or Grad Student Studying Appraisal
+- Students studying appraisal can do appraisals as long as they are under the supervision of a broker or licensed appraiser.
+### 9. Radio, Television, or Cable Enterprises Licensed and Regulated by the Federal Communications Commission
+- Remember how in Florida, you need a real estate license to sell a business? Well, one exception to this is a salaried employee selling radio, television, or cable enterprises licensed and regulated by the Federal Communications Commission, pursuant to Communications Act of 1934. That's for the business only — if it involves land or buildings, you still need a license.
+### 10. People Registered With the SEC to Sell Businesses
+- Because of a federal law, people registered with the SEC to sell certain businesses to accredited investors can do so without a license.
+### 11. Tenant Referral Fees Under $50
+- Buildings can give unlicensed tenants up to $50 in referral fees for finding new tenants.
+### 12. Hotel and Motel Clerks
+- Hotel and motel clerks don't need a license to sell transient occupancy or public lodging.
+### 13. Cemetery Lots
+- **Cemetery lots aren't considered real property in Florida, so you don't need to be licensed to sell them.**
+### 14. 
