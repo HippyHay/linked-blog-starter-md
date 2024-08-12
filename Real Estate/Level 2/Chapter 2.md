@@ -125,4 +125,10 @@ If you advise someone on their real estate dealings, you or your broker could be
 - 100 questions, 75% min required to pass
 - you'll get score i site after you finish the exam
 ### If you pass
-- score is uploaded to DBPR database and you'll get y
+- score is uploaded to DBPR database and you'll get your license number 
+- inactive a this point, until listed with a sponsoring broker and listed active on the DBPR website
+- submit form RE 11: Change of status for sales associate and brokers to the DBPR. Your broker can register you online, and once active you're good to go
+### If you fail
+- you can review the test, but you have to have a request made within 21 days of getting score, you can make an appointment with the test vendor to review the test
+- you can get a lawyer to review if you see anything they got wrong
+- also have to request a formal hearing with the division of administrative hearings within 21 days of getting score
