@@ -103,3 +103,5 @@ If you advise someone on their real estate dealings, you or your broker could be
 - Timeshare exchange company employees do not need to be licensed.
 ### Conclusion 
 - A few of them are designed to relieve the licensing burden from people who encounter real estate-related tasks in the course of their normal job duties or court-ordered duties. Another key takeaway is that property owners or employees of an owner can engage in property management without a real estate license.
+
+![A review chart of Florida license requirement exemptions.](https://d1u7daj727sadp.cloudfront.net/images/FL_RealEstateLicenseExemptions_4416.png)
