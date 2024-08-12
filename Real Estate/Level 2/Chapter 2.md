@@ -110,5 +110,19 @@ If you advise someone on their real estate dealings, you or your broker could be
 ### Unauthorized Practice of the Law
 -  you could be held liable for your statements
 
-### License Requirements for Sales Associates (455.10, F.S. 475.17, F.S. 61J2-2.027)
-- 
+## License Requirements for Sales Associates (455.10, F.S. 475.17, F.S. 61J2-2.027)
+- required to complete 63 hour course
+	- 45 questions on principles and practices
+	- 45 questions on real estate law
+	- 10 math questions
+	- have to wait 30 days to retake
+### Education Exemptions
+-  active member of Florida bar 
+- people who have graduated with institute with a major in real estate 
+- licensed sales associates from states that have mutual recognition agreements or reciprocity with Florida
+### State Exam
+- you have 2 years after course to take the exam
+- 100 questions, 75% min required to pass
+- you'll get score i site after you finish the exam
+### If you pass
+- score is uploaded to DBPR database and you'll get y
