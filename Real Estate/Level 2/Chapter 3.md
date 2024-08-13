@@ -16,4 +16,19 @@ What to disclose?
 - **Nolo contendere (or no contest)** pleas
 Even with a withhold adjunction, you must disclose that incident
 #### Sealing vs. Expungement
+- **Sealing** a record is putting it under highly restricted access
+- **Expungement** involves removing a record and destroying it
+
+How to Disclose
+- **you will need to provide some documentation about the incident with your application.**
+
+- Contact the court for documents 
+- If probation, you must include a letter from your probation officer
+- Include 3 Character Recommendation Letters if you have a past
+- Can appeal through  the FREC
+- Disbarment will make it hard to return, it is evaluated by a commission
+
+
+
+
 
