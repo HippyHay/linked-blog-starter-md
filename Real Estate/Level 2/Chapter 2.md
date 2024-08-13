@@ -155,7 +155,15 @@ Experience Requirements
 ![A nested Venn diagram of the requirements for Florida salesperson licenses and broker licenses.](https://d1u7daj727sadp.cloudfront.net/images/FL_LicenseRequirements_4415.png)
 
 
-Broker
+**Sales Associate**
+- Florida Bar members are exempt from pre-licensing education
+- must complete course 1
+**Broker**
 - must have been an active sales associate for 24 months in the last five years
-Both
+- must complete Course II
+**Both**
 - four-year real estate degree holders are exempt from pre-licensing education
+- must have a high school degree or equivalent
+**Neither**
+- must be a U.S. citizen
+- must have an undergraduate degree
