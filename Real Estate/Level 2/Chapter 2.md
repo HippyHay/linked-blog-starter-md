@@ -144,3 +144,14 @@ Experience Requirements
 - Held a sales associate license for 24 months in the last five years while working as a salaried employee of a governmental agency where you performed real estate activities
 - Held an active broker license outside of Florida for 24 months in the last five years
 	- you must have completed the 45-hour post-licensing education before applying to take the broker exam
+#### Education requirements
+- broker applicants have to complete Course II, a 72-hour course (well, 69 hours plus a three-hour exam). People with four-year real estate degrees from accredited institutions and brokers from mutual recognition states are exempt from taking Course II. Lawyers are not exempt.
+#### Broker Exam
+- There are 100 questions covering 12 content areas. 75% is the minimum passing score
+
+
+![A chart showing which types of real estate license applicants are required to take which courses and tests in Florida.](https://d1u7daj727sadp.cloudfront.net/images/FL_EducationExemptions_4418.png)
+
+![A nested Venn diagram of the requirements for Florida salesperson licenses and broker licenses.](https://d1u7daj727sadp.cloudfront.net/images/FL_LicenseRequirements_4415.png)
+
+
