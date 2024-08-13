@@ -132,3 +132,15 @@ If you advise someone on their real estate dealings, you or your broker could be
 - you can review the test, but you have to have a request made within 21 days of getting score, you can make an appointment with the test vendor to review the test
 - you can get a lawyer to review if you see anything they got wrong
 - also have to request a formal hearing with the division of administrative hearings within 21 days of getting score
+
+what to look for in a broker 
+**the splits** - portion goes to you and portion to the broker, from 50-100%. some companies have a cap on the amount
+what fees they charge, do they have the tech, the capacity, is it a healthy environment?
+Find a company where the broker has a lot of experience
+
+### License Requirements for a Broker
+Experience Requirements 
+- Had an active sales associate license for **at least 24 months in the last five years**, in Florida or another state
+- Held a sales associate license for 24 months in the last five years while working as a salaried employee of a governmental agency where you performed real estate activities
+- Held an active broker license outside of Florida for 24 months in the last five years
+	- you must have completed the 45-hour post-licensing education before applying to take the broker exam
