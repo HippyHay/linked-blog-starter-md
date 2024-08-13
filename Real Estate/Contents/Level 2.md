@@ -22,3 +22,9 @@
 - owner-developer
 
 **Chapter 3:** Obtaining and Maintaining a License
+- Describe the application requirements for licensure including nonresident application requirements
+- Explain the importance of responding accurately and completely to the background information questions on the licensure application
+- Illustrate the background check procedure conducted by the DBPR
+- Distinguish between registration and licensure
+- Explain mutual recognition agreements
+
