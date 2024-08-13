@@ -155,3 +155,7 @@ Experience Requirements
 ![A nested Venn diagram of the requirements for Florida salesperson licenses and broker licenses.](https://d1u7daj727sadp.cloudfront.net/images/FL_LicenseRequirements_4415.png)
 
 
+Broker
+- must have been an active sales associate for 24 months in the last five years
+Both
+- four-year real estate degree holders are exempt from pre-licensing education
