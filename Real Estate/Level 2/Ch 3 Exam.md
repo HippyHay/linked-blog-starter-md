@@ -23,6 +23,11 @@ The following people are members of the Florida Real Estate Commission:
 - Two licensed brokers with five years of active licensure, ages 35 and 41
 - One licensed sales associate with two years of active licensure, age 54
 - Two members of the public who have never been licensed, ages 26 and 47
-    
-
 Who should join the Commission in order to fulfill the membership requirements?
+- two additional licensed brokers, one of whom must be at least 60 years old. 
+
+Which of these is an example of the Florida Real Estate Commission's quasi-judicial powers?
+- revoking a sales associate's license.
+
+Lisa is a broker who wants to open multiple brokerage businesses. What kind of license does she need?
+- multiple license.
