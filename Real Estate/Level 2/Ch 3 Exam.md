@@ -5,3 +5,24 @@ If a sales associate changes employer and does not notify the Commission within 
 - Ceases to be in force 
 
 Daisy's salesperson license has been voluntarily inactive for the past few years. Now she wants to return to real estate. What must she do?
+- she must secure an employing broker or owner-developer and submit the proper request form. 
+
+Which statement most accurately differentiates between the Department of Business and Professional Regulation and the Florida Real Estate Commission?
+- The FREC consists of seven members, wheres the DBPR is a much larger, multi-division agency. 
+
+Which of these actions is most likely to result in an involuntarily inactive license?
+- Randall failed to renew his license for 36 months. 
+
+Which of these most accurately distinguishes between active licenses and inactive licenses?
+- An active license is required for real estate practice, one cannot engage in real estate practice with an inactive license.
+
+One commonality between the Department of Business and Professional Regulation and the Florida Real Estate Commission is that they both:
+- Regulate real estate professionals. 
+
+The following people are members of the Florida Real Estate Commission:
+- Two licensed brokers with five years of active licensure, ages 35 and 41
+- One licensed sales associate with two years of active licensure, age 54
+- Two members of the public who have never been licensed, ages 26 and 47
+    
+
+Who should join the Commission in order to fulfill the membership requirements?
