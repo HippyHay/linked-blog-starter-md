@@ -60,3 +60,18 @@ agent can be a:
 - Associate broker
 - Sales associate
 
+
+Fiduciary
+- Have Clients, not customers 
+- puts their client's interests ahead of everyone else's
+Agent
+- have customers, not clients
+- an individual with authority to act on behalf of another
+Customer 
+- may or may not be represented by a licensee
+- is NOT owed fiduciary duties
+Client
+- is represented by a fiduciary, not an agent
+- also known as a principal
+
+Have customers, not clients
