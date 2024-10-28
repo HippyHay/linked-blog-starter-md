@@ -11,7 +11,7 @@ Which statement most accurately differentiates between the Department of Busines
 - The FREC consists of seven members, wheres the DBPR is a much larger, multi-division agency. 
 
 Which of these actions is most likely to result in an involuntarily inactive license?
-- Randall failed to renew his license for 36 months. 
+- Roger failed to renew his license for 12 months.
 
 Which of these most accurately distinguishes between active licenses and inactive licenses?
 - An active license is required for real estate practice, one cannot engage in real estate practice with an inactive license.
