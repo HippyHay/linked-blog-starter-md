@@ -28,4 +28,6 @@ The Customer:
 		- Honesty and fairness
 		- Disclosure of a property's observable material facts that are not readily observable
 The Client (Principle)
-- 
+- anyone represented by a real estate agent would be considered a client of that agent.
+- In Florida, agents operating as agents have customers while agents operating as fiduciaries have clients, also known as principals.
+
