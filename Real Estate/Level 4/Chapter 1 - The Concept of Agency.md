@@ -21,7 +21,7 @@ The agent:
 - an agent is an individual with authority to act on behalf of another.
 The Fiduciary:
 - an individual upon whom is placed the highest levels of trust and confidence when acting on behalf of another.
-- putting clients inst
+- putting clients interests ahead of their own 
 The Customer:
 - an individual with whom a licensee has no fiduciary duties but to whom a lesser degree of duty is owed
 	- owned the duties of:
@@ -34,4 +34,17 @@ The Client (Principle)
 
 In a Florida real estate transaction, who can accurately be referred to as an agent?
 - **Brokers and their sponsored sales associate**
+
+## Agents and Fiduciaries in Florida Real Estate
+3 authorized brokerage relationships:
+1. **Transaction Broker Relationship**  
+    (agent - customer)
+2. **No Brokerage Relationship**  
+    (agent - customer)
+3. **Single Agent Relationship**  
+    (agent as fiduciary - client/principal)
+
+**single agent relationship** is the one agency relationship wherein a broker works as a fiduciary with a party who would, therefore, be considered that broker's **client** or principal
+
+Parties working with brokers under either a **transaction broker relationship** or **no brokerage relationship** should be referred to as _customers_.
 
