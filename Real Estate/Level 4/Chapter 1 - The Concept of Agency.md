@@ -17,3 +17,9 @@ The law of agency that exists today in Florida is a blend of common, statutory, 
 3. Client (Principal)
 4. Custome
 
+The agent: 
+- an agent is an individual with authority to act on behalf of another.
+The Fiduciary:
+- an individual upon whom is placed the highest levels of trust and confidence when acting on behalf of another.
+The Customer:
+- 
