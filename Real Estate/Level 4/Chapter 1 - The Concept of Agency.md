@@ -48,3 +48,15 @@ In a Florida real estate transaction, who can accurately be referred to as an ag
 
 Parties working with brokers under either a **transaction broker relationship** or **no brokerage relationship** should be referred to as _customers_.
 
+### General Business Terminology Disclaimer
+- **Principal**: Also known as a **client**, an individual who authorizes another to act on their behalf.
+- **Agent**: An individual who has been authorized to act on another's behalf.
+- **Customer**: A party outside of the principal-agent relationship.
+Fiduciary usage in and out f the world of real estate is basically the same. 
+
+### Casual and Multiple Meanings
+agent can be a:
+- Broker
+- Associate broker
+- Sales associate
+
