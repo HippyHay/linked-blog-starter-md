@@ -22,4 +22,10 @@ The agent:
 The Fiduciary:
 - an individual upon whom is placed the highest levels of trust and confidence when acting on behalf of another.
 The Customer:
+- an individual with whom a licensee has no fiduciary duties but to whom a lesser degree of duty is owed
+	- owned the duties of:
+		- Accounting
+		- Honesty and fairness
+		- Disclosure of a property's observable material facts that are not readily observable
+The Client (Principle)
 - 
