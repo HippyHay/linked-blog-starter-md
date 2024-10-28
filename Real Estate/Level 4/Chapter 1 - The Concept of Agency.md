@@ -11,5 +11,9 @@ In Florida, the laws enacted by state legislature that pertain to real estate li
 
 The law of agency that exists today in Florida is a blend of common, statutory, and administrative law.
 
-
+## **Roles in Real Estate Transaction** 
+1. Agent
+2. Fiduciary
+3. Client (Principal)
+4. Custome
 
