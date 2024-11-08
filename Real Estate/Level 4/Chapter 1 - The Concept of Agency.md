@@ -90,3 +90,9 @@ ex: Sales Associate Peyton is sponsored by Broker Archie. In that relationship, 
 
 ex. What legal concept puts the responsibility on consumers, even those buying real estate, to inspect the products they buy?
 	caveat emptor
+
+# Agency Relationships in Real Estate
+
+In other words, an agency relationship is **a relationship wherein one party authorizes another to represent their interests and that second party accepts the responsibility given to them.**
+
+
