@@ -95,4 +95,6 @@ ex. What legal concept puts the responsibility on consumers, even those buying r
 
 In other words, an agency relationship is **a relationship wherein one party authorizes another to represent their interests and that second party accepts the responsibility given to them.**
 
+Different duties require different types of authorized brokerage relationships. 
+## Mutual Consent Required
 
