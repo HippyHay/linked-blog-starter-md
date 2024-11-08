@@ -75,3 +75,8 @@ Client
 - also known as a principal
 
 Have customers, not clients
+
+**Subagency:** a form of agency that arises when an employing broker enlists the use of sponsored sales associates and/or sponsored associate brokers to accomplish a client's goal
+
+**Duel Agents:** the role of a licensee in an in-house transaction where the brokerage offers both parties fiduciary level representation; **illegal in Florida**
+
