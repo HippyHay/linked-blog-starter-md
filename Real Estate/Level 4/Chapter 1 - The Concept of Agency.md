@@ -111,3 +111,10 @@ so...
 2. An agreement = the buyer-broker agreement
 3. A duty = Jaselle's obligation to help Krista buy a house
 
+### Trust
+activities where a sales associates or broker will act as a agent for a customer or client:
+- Purchasing a home
+- Selling an office building
+- Leasing a condo
+- Managing an apartment building
+
