@@ -80,3 +80,13 @@ Have customers, not clients
 
 **Duel Agents:** the role of a licensee in an in-house transaction where the brokerage offers both parties fiduciary level representation; **illegal in Florida**
 
+ex: Sales Associate Peyton is sponsored by Broker Archie. In that relationship, Peyton is a(n) to Archie's customers and clients:
+	Subagent 
+
+**_Caveat emptor,_** or _buyer beware,_ prevails as a matter of law in Florida. _Caveat emptor_ is the concept that a buyer is responsible for verifying the quality and value of the goods prior to the purchase, including real estate.
+	We often operate "_at arm's length_" from others. This means we act with a degree of caution or care when we come into contact with someone we consider an adversary or, at least, someone with interests that are counter to our own.
+
+
+
+ex. What legal concept puts the responsibility on consumers, even those buying real estate, to inspect the products they buy?
+	caveat emptor
