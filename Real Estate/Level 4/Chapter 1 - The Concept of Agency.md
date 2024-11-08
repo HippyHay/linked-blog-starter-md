@@ -96,9 +96,18 @@ ex. What legal concept puts the responsibility on consumers, even those buying r
 In other words, an agency relationship is **a relationship wherein one party authorizes another to represent their interests and that second party accepts the responsibility given to them.**
 
 Different duties require different types of authorized brokerage relationships. 
-## Mutual Consent Required
+### Mutual Consent Required
 - Written agreement ✏️
 - Oral agreement 🗣
 To prevent miscommunication (and protect their commissions), licensees should always form their agency relationships **in writing.** And in Florida, as with many states, it's a statutory requirement that certain agency relationships be disclosed in express written form.
-
+### Relationship Components
+1. Two parties (agent and client/customer)
+2. An agreement
+3. A duty
+#### Scenario: Krista Gets a Broker
+Buyer Krista entered into a single agency relationship with Broker Jaselle when Krista signed a buyer-broker agreement with Jaselle. The agreement gave Jaselle authority to represent Krista's best interests in her effort to buy a house.
+so...
+1. Two parties = Krista (principal) and Jaselle (agent operating as a fiduciary)
+2. An agreement = the buyer-broker agreement
+3. A duty = Jaselle's obligation to help Krista buy a house
 
