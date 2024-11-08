@@ -97,4 +97,8 @@ In other words, an agency relationship is **a relationship wherein one party au
 
 Different duties require different types of authorized brokerage relationships. 
 ## Mutual Consent Required
+- Written agreement ✏️
+- Oral agreement 🗣
+To prevent miscommunication (and protect their commissions), licensees should always form their agency relationships **in writing.** And in Florida, as with many states, it's a statutory requirement that certain agency relationships be disclosed in express written form.
+
 
