@@ -938,23 +938,25 @@ When asked to notarize the signature of a minor, you may refuse to do so if you 
 
 ### Self-assessment
 
-|   |
-|---|
-|1. When determining if a document signer is mentally competent and willing to execute the document you may want to ask the signer questions unrelated to the notarization.|
-|A. True|
-|B. False|
-|2. When notarizing for a person who is blind, you are not required to read the document to the document signer.|
-|A. True|
-|B. False|
-|3. When notarizing for a person who does not speak English the document must be translated into a language that the signer understands.|
-|A. True|
-|B . False|
-|4. When notarizing for a person who is signing a document written in a foreign language not understood by the notary, the notarial certificate must be completed in English.|
-|A. True|
-|B. False|
-|5. An individual with a disability may direct another person to sign on his or her behalf.|
-|A. True|
-|B. False|
-|6. When notarizing for a person with a Power of Attorney it is the notary's responsibility to ensure the document signer has the Power of Attorney.|
-|A. True|
-|B. False|
+|                                                                                                                                                                              |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1. When determining if a document signer is mentally competent and willing to execute the document you may want to ask the signer questions unrelated to the notarization.   |
+| A. True -                                                                                                                                                                    |
+| B. False                                                                                                                                                                     |
+| 2. When notarizing for a person who is blind, you are not required to read the document to the document signer.                                                              |
+| A. True                                                                                                                                                                      |
+| B. False -                                                                                                                                                                   |
+| 3. When notarizing for a person who does not speak English the document must be translated into a language that the signer understands.                                      |
+| A. True -                                                                                                                                                                    |
+| B . False                                                                                                                                                                    |
+| 4. When notarizing for a person who is signing a document written in a foreign language not understood by the notary, the notarial certificate must be completed in English. |
+| A. True -                                                                                                                                                                    |
+| B. False                                                                                                                                                                     |
+| 5. An individual with a disability may direct another person to sign on his or her behalf.                                                                                   |
+| A. True -                                                                                                                                                                    |
+| B. False                                                                                                                                                                     |
+| 6. When notarizing for a person with a Power of Attorney it is the notary's responsibility to ensure the document signer has the Power of Attorney.                          |
+| A. True                                                                                                                                                                      |
+| B. False -                                                                                                                                                                   |
+
+##
