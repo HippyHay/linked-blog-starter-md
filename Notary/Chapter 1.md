@@ -959,4 +959,133 @@ When asked to notarize the signature of a minor, you may refuse to do so if you 
 | A. True                                                                                                                                                                      |
 | B. False -                                                                                                                                                                   |
 
-##
+## Liability and RecordKeeping 
+## Notary and Employer Liability
+
+Although as a notary you are bonded, you may be held personally liable for any misconduct or negligence in the performance of your official duties. This means that you could be sued if an improper notarization causes loss to another individual or company. However, if you perform your duties correctly and carefully, always exercising reasonable care, you probably don't have to worry about being sued.
+
+> _"Reasonable care" is that degree of care which a person of ordinary prudence and intelligence would exercise in the same or similar circumstances. Failure to exercise such care is negligence._
+
+Florida law provides that the notary's employer may also be held liable if the notarization in question was done within the scope of the notary's employment. See §117.05(6), Florida Statutes. A government agency may or may not be held liable for the misconduct of their employee-notaries depending on the circumstances and the laws governing such issues. Please read page 24 for additional information on government employees as notaries.
+
+The best protection for you and your employer against a lawsuit or a claim filed against your notary bond is simple:
+
+- Know the laws governing your duties.
+- Use reasonable care in notarizing.
+- Don't make any exceptions.
+- Keep accurate records.
+
+**Keeping Records of Your Notarial Acts:  
+The Notary Journal**
+
+Notaries are not authorized to keep copies of the documents they notarize. The best way to protect yourself is to document your notarial acts in a journal (record book or log).
+
+Florida law does not require the use of a notary journal; however, you may be interested to know that the Governor's Task Force on Notaries Public in 1989 recommended the mandatory use of journals. Although the Legislature did not follow that recommendation, many notaries in Florida are beginning to voluntarily use a journal. You may want to consider this option as well. Each time you perform a notarial act you should record the event your journal.
+
+Numerous notary journals are available on the market today, and they all have similar features. We recommend that your journal be bound (not loose-leaf) and have consecutively numbered pages, so that a page could not be removed without being detected. Important information should be recorded in the journal including:
+
+- the date of the notarial act;
+- the type of notarial act: oath, acknowledgment, attested photocopy, marriage;
+- the name or brief description of the document;
+- the party's printed name, exactly as he or she signed the document;
+- the party's address;
+- the party's signature;
+- the type of identification relied upon in identifying the party, including the serial number, expiration date, date of birth, etc.;
+- the fee charged for the notary service; and
+- any additional comments you consider important; for example, the person is blind and you read the document to him.
+
+When using a journal to record your notarizations, it is a good idea to complete the journal entry prior to the notarization to ensure that the party does not leave before the necessary information is recorded.
+
+Other important considerations:
+
+- Journals can be used to refresh your memory about an event that occurred years earlier, and if kept consistently, may be relied upon for court testimony.
+- Journals may also prove your compliance with the law.
+- To be reliable, make sure that you record **_every_** notarial act and any special circumstances of the notarization.
+- Do not share a journal with another notary.
+- Guard your journal. Keep completed journals for at least 5 years.
+
+Notary journals are usually available from your bonding agency, an office supply store, or one of the two national organizations that provide educational assistance to notaries. Even though journals are not required, any notary who is concerned with liability may want to consider this protective measure to provide a permanent record of his or her notarial acts.
+
+## Order in the Court
+
+A recent court decision should be of special interest to Florida notaries and their employers. In _Ameriseal of North East Florida, Inc. v. Leiffer_ (673 So. 2d 68 [Fla. 5th D.C.A. 1996]), the Court ruled that a notary public and the law firm that employs her may be held liable for damages resulting from an improper notarization.
+
+A notary employed by a law firm agreed to notarize signatures on several documents as a favor to a coworker's husband. Neither of the document signers was present. Unknown to the notary, the husband was engaged in a fraudulent bond transaction involving the documents, and the individuals whose signatures were notarized did not actually have authority to sign the documents. A highway subcontractor lost a contract with the state Department of Transportation as a result of the fraudulent transaction.
+
+The company sued the husband, the law firm, and the notary and won a default judgment for more than $350,000 against the husband. However, the trial court granted summary judgment in favor of the law firm and the notary, concluding that the improper notarization was not the proximate cause of the contractor's losses. The District Court of Appeal reversed, saying the contractor relied on documents without knowing that the notary (Ellis) had failed to verify the signers' identities.
+
+The Court stated, "Ellis' obligation as a notary is quite simple: she must either know or have properly identified the affiants that appear before her and she must administer the proper oath. If business cannot depend on notaries doing this simple task, then there is no place for notaries in the world of commerce."
+
+[**Back to top**](https://notaries.dos.state.fl.us/education/chapters/liability.asp#top)
+
+**Complaint Process**
+
+Because notaries are appointed by the Governor, it is the responsibility of the Governor's Office to investigate allegations of misconduct by notaries. The Notary Section investigates hundreds of complaints each year and takes disciplinary action against those notaries found to have been negligent in their duties. Most complaints involve business deals gone awry, persons involved in legal disputes, or friends who asked the notary for a special favor.
+
+The majority of the complaints, about 75 percent, are violations of the presence requirement, and most of those also involve allegations of forgery or fraud. Although the notaries are not usually involved in the forgery or fraud, they facilitate the commission of these crimes by not requiring the document signer to be present. Other common complaints are related to incomplete notarial certificates.
+
+Once a complaint is received, a copy is forwarded to the notary requesting a sworn written response to the allegations. The notary's response is then sent to the complainant, giving him or her an opportunity to reply. The Notary Section may find it necessary to request additional information from either party or from other sources. Once all information is gathered, the complaint file is reviewed in its entirety by the Governor's legal staff.
+
+If the allegations against the notary are unfounded, the complaint is dismissed. If the allegations prove to be true, the Governor's Notary Section recommends disciplinary action. The most common actions include a letter of advice in which the notary is advised of his or her improper action and the method for correcting the error; a written reprimand in which the notary is informed of the findings and issued a warning that any further violation or negligence of duties will result in stronger disciplinary action; and a request for the notary's resignation. When the notary resigns, the complaint is closed without any further action. However, in most cases, the notary will not be appointed again. If the complaint allegation involves a criminal violation, the complaint is referred to the appropriate State Attorney's Office for investigation.
+
+A rarer, but stronger, form of disciplinary action is suspension from office by the Governor. Suspensions are typically done when a notary is convicted of a felony while commissioned, when the notary refuses to resign when requested by the Governor's Office, or when the notary cannot be contacted for a response. The process to accomplish a suspension requires the Governor to issue an executive order, filed with the Secretary of State, and the notary to appear before The Florida Senate for a hearing or trial. The Senate makes the final determination as to whether the notary should be permanently removed from office.
+
+If you ever have a complaint filed against you, it is best for you to provide a timely and honest response to any request from the Governor's Office. Of course, the best way to avoid a complaint is to know and comply with the notary laws.
+
+# REVIEW
+
+## _Case Study ­ Presence Requirement and Notary Liability_
+
+Marie Notary's friend Susan and Susan's father Roy came to Marie's office to get some papers notarized. Marie personally knew both Susan and Roy and notarized a number of documents for them.
+
+Later that day, Susan returned with another document they had forgotten. The document was signed by Roy and needed to be notarized.
+
+Susan explained that Roy could not leave work and asked Marie to notarize the signature even though Roy was not present. Marie did so.
+
+Should Marie have notarized Roy's signature?
+
+**NO !**
+
+**_Now, for the rest of the story . . ._**
+
+The document was a deed transferring ownership of Roy's home to Susan. Roy did not sign the document Susan forged his signature.
+
+Using the deed as security, Susan obtained a loan for $27,900. Susan never made any payments, and the bank began foreclosure proceedings on the property.
+
+Roy filed a lawsuit against the bank for relying upon a fraudulent deed. The bank filed a lawsuit against Marie for her illegal notarization.
+
+The bank lost their claim to the property and Roy got his property back. But, the Court awarded the bank a judgment against Marie for $27,900. Additionally, Marie's bonding company paid out the entire amount of her bond ($1,000) to the bank, which she was required to repay.
+
+By doing a favor for a friend, the notary was held liable for her improper notarization and had to pay back almost $30,000!
+
+|   |
+|---|
+|of self-assessment|
+|Section Time:  Total time :|
+
+---
+
+### Self-assessment
+
+|   |
+|---|
+|1. Although as a notary you are bonded, you may be held personally liable for any misconduct or negligence in the performance of your official duties.|
+|A. True|
+|B. False|
+|2. Florida Notaries are authorized by law to keep a journal of notarial acts.|
+|A. True|
+|B. False|
+|3. When using a journal to record your notarizations, it is a good idea to complete the journal entry prior to notarization.|
+|A. True|
+|B. False|
+|4. Whose responsibility is it to investigate allegations of misconduct against a notary public.|
+|A. Department of State|
+|B. Governor's Office|
+|C. Attorney General's Office|
+|D. Insurance Commissioner|
+|5. The majority of complaints, about 75 percent, are violations of the presence law.|
+|A. True|
+|B. False|
+|6. If a complaint allegation involves a criminal violation, the complaint is referred to the appropriate State Attorney's Office for investigation.|
+|A. True|
+|B. False|
