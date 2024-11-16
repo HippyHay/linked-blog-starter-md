@@ -752,4 +752,209 @@ _The following certificate is provided in Florida law for use by a military offi
 | A. True                                                      |
 | B. False -                                                   |
 
-## 
+## Skipped
+
+## Notarizing in special Circumstances 
+Occasionally you may be asked to perform a notarization that requires special handling. For example, how do you notarize if the document signer is blind? Cannot speak English? Has a disability? In any special situation, you should make every effort to accommodate the person's request. If you are unsure about the notarization, though, you should decline to notarize.
+
+Florida law addresses some of these situations, but not all. There are, however, some commonly accepted practices for unusual notarizations. As with any other notarization, you must rely upon the law, exercise reasonable care, and use your common sense. You may also want to note the special circumstances of the notarization in the notarial certificate and in your journal (if you keep one).
+
+Remember, unless you are an attorney, you may not give legal advice when you provide notary services. That means you are prohibited from advising the signer which notarial act is required for his or her document, from preparing legal documents, or from explaining the contents or legal effects of a document.
+
+If you believe that the person does not fully understand the document he or she is to sign, you should decline to notarize and suggest that the person seek legal advice from a competent attorney.
+
+**For a person who is mentally incapacitated**
+
+_§117.05(14)(a), Fla. Stat.  
+_  
+The law prohibits you from notarizing the signature of a person who you know has been adjudicated mentally incapacitated by a court of competent jurisdiction if that notarization pertains to a right that has been removed. These rights refer to such things as the right to vote, to marry, to execute conveyances of real property, etc.
+
+What if the person is usually mentally competent, but is medicated at the time of the notarization, or what if a family member says the person is "in and out" of lucidity due to Alzheimer's disease or some other mentally debilitating ailment?
+
+When performing any notarization, you should question the signer to determine that he or she is willing and competent to execute the document. The following suggestions may be helpful:
+
+- You may want to have an impartial witness for the notarization.  
+    
+- If you are asked to go to a hospital or nursing home to provide services, check with the patient's nurse or doctor prior to notarization.  
+    
+- Talk to the person alone. Ask questions unrelated to the notarization. Ask for his name, home address, and telephone number. You could also engage the person in a conversation about his family, his occupation, a television program, a recent news event, etc.  
+    
+- Ask the signer to tell you about the document to be notarized. What kind of document do you need to sign? Have you read the document completely? Do you understand the document? Do you need someone to explain the contents of the document to you? Has anyone pressured you to sign this document?  
+    
+- If you feel the person is mentally competent at the time, proceed. If in doubt, don't do it!  
+    
+- If you keep a record of your notarial acts, document the special circumstances of this notarization even if you must refuse to notarize.  
+    
+- Have the witness sign your journal.
+
+[**Back to top**](https://notaries.dos.state.fl.us/education/chapters/special.asp#top)
+
+**For a Person who is Blind**
+
+_§117.107(5), Fla. Stat._
+
+- The law requires you to read the document to the document signer before the notarization.  
+    
+- You may wish to add a statement in your notarial certificate that you have complied with this requirement of the law: "I further certify that I read the document to (name of signer) prior to notarization."  
+    
+- Unless you are an attorney, you cannot advise the person about the contents of the document; however, you may re-read any portion of the document to the person.
+
+**For a Person Who Does Not Speak English**
+
+_§117.107(6), Fla. Stat._
+
+- The nature and effect of the document must be translated into a language that the person does understand. The law does not specify that a written translation is required; therefore, an oral translation is sufficient.  
+    
+- You may wish to add a statement in your notarial certificate that you have complied with this requirement of the law: "I further certify that the nature and effect of the document was translated for (name of signer) by (name of translator) prior to notarization."  
+    
+- You may also want the translator to sign the document and your journal.
+
+**For a Person Who is Deaf**
+
+- The obvious problem that exists in this situation is communication. Unless you and the signer are competent in sign language or lip reading, you should communicate with the person by writing notes.  
+    
+- Make additional comments about the notarization in your journal entry.
+
+**For a Person Who is Signing a Document Written in a Foreign Language Not Understood by the Notary**
+
+Remember, you are not responsible for the contents of the document, but you need to exercise caution in this situation. Follow these recommendations:
+
+- Make sure that you can communicate verbally with the document signer or that a qualified, trustworthy translator is present.  
+    
+- Determine, if possible, that the document is complete.  
+    
+- Check the document for a notarial certificate. If the document does not have a notarial certificate, ask the document signer for instructions. If he directs you which notarial act is appropriate for his document, proceed by adding the correct certificate and completing the notarization. If he does not know, refuse to notarize.  
+    
+- Complete the notarial certificate in English. The certificate may be translated into the language of the document, but the translated certificate should not be signed and sealed by the notary.  
+    
+- If you are unsure about the notarization, you should refuse to notarize.
+
+[**Back to top**](https://notaries.dos.state.fl.us/education/chapters/special.asp#top)
+
+**For a Person Who is Illiterate**
+
+- Although not required by law, you should read the document to the document signer before the notarization.  
+    
+- You may wish to add a statement in your notarial certificate: "I further certify that I read the document to (name of signer) prior to notarization."  
+    
+- Unless you are an attorney, you cannot advise the person about the contents of the document, however, you may reread any portion of the document to the person.
+
+**For a Person Who Signs by Mark**
+
+Occasionally, you may be asked to notarize the signature of a person who signs with a mark. The person may be illiterate or may have a physical disability which prohibits him or her from signing in the customary manner. The notary laws do not require any additional procedures for notarizing in these situations. You may notarize in the same manner as for usual signatures. However, you may prefer to take extra precautions. The following guidelines may be helpful.
+
+- Question the signer to make sure that he or she understands the nature and effect of the document to be signed. If the person is illiterate, read the document to him or her. If the person does not understand, refer him or her to an attorney for legal advice and do not proceed with the notarization.  
+    
+- Ask for proper identification.  
+    
+- Perform the appropriate notarial act: administer an oath or take an acknowledgment.  
+    
+- Before the person signs the document, print his or her first name at the beginning of the signature line and the last name at the end of the line. Just below the line, print the words "His Mark" or "Her Mark".
+
+![](https://notaries.dos.state.fl.us/education/images/X.GIF)
+
+Then, ask the person to make his or her mark on the designated line.
+
+- Complete the notarial certificate with all the required information. When filling in the person's name whose signature is being notarized, you may want to indicate that the person signed by way of mark.  
+    
+- It is also recommended that two uninterested persons witness the signing of the document and the notarization and that their names and addresses be clearly printed under their signatures.  
+    
+- Make appropriate comments in your journal.
+
+![](https://notaries.dos.state.fl.us/education/images/JOHNDOES.GIF)
+
+[**Back to top**](https://notaries.dos.state.fl.us/education/chapters/special.asp#top)
+
+**For a Person with a Disability Who Directs Another to Sign**
+
+On a rare occasion, you may be asked to notarize the signature of a person who cannot sign a document in the usual manner. An individual with a disability may direct another person to sign on his or her behalf. See _State v. Hickman_, 180 So.2d 254 (1966). In a sense, one person substitutes his hands for the hands of the person with a disability. You may notarize this signature but you should indicate the unusual circumstances in the notarial certificate. Although the notary laws do not provide specific guidelines for this situation, you may want to take extra precautions to prevent any problems. The following guidelines may be helpful.
+
+- Question the person to make sure that he or she understands the nature and effect of the document to be signed. If the person is blind, read the entire document to him or her. If the person does not understand, refer him or her to an attorney for legal advice and do not proceed with the notarization.  
+    
+- Ask for proper identification from the person with a disability. It is not necessary to require identification from the designated signer. Think of that person only as the "hands" of the person with a disability.  
+    
+- The designated person may then sign the signature of the person with a disability at the direction of and in the presence of that person.  
+    
+- Perform the appropriate notarial act: administer an oath or take an acknowledgment. Your notarial act should be directed to the person with a disability, rather than the designated signer.  
+    
+- Complete the notarial certificate with the required information. When stating whose signature is being notarized, it would be best to indicate the special circumstances of the signing.  
+    
+- It is also recommended that two persons, with no interest in the transaction, witness the signing of the document and the notarization and that their names and addresses be clearly printed below their signatures. Unless otherwise required by law for the particular document, it is not necessary for the witnesses' signatures to be notarized.  
+    
+- Be sure to get the witnesses and the designated signer to sign your journal and make appropriate notes.
+
+For an oath:  
+![](https://notaries.dos.state.fl.us/education/images/disoath.gif)
+
+For an acknowledgment:  
+![](https://notaries.dos.state.fl.us/education/images/ack.gif)
+
+**For a Person Signing with Power of Attorney**
+
+- Situation: John Doe presents a document to be signed by Nancy Smith. John Doe state that he has power of attorney for Nancy Smith. John Doe signs the document in one of two ways:  
+      
+    (1) _John Doe as attorney-in-fact for Nancy Smith_(2) _Nancy Smith by John Doe, attorney-in-fact_
+
+The first way is the preferred method.
+
+- It is not the notary's responsibility to ensure that the signer has power of attorney. The person states he has that authority and indicates this fact when he signs just accept his word.
+
+> **_Note:_** _If you are notarizing in connection with your employment, you may need to require a copy of the POA for your employer's files._
+
+- Note the capacity of the signer in the notarial certificate. Use a notarial certificate in substantially the same form as the one for an acknowledgment in a representative capacity.
+
+[**Back to top**](https://notaries.dos.state.fl.us/education/chapters/special.asp#top)
+
+**For a Person Who is a Minor**
+
+Have you ever been asked to notarize the signature of a person under the age of 18? If so, you may have considered this request a "major" problem. No doubt you have had some of the same questions that we are frequently asked.
+
+- **May I notarize the signature of a minor?** Generally speaking, you may notarize for a minor; however, all of the requirements of the notary laws must be followed.  
+    
+- **Is there an age limit?** The notary laws do not limit notarizations based upon a person's age.
+
+> The Governor's Notary Section recommends that you exercise caution when notarizing for a minor. In particular, you should determine whether the minor understands the nature of an oath or acknowledgment before notarizing.
+> 
+> For example, a woman recently called our office to ask whether she could notarize the signature of a 4-year-old child. The father wanted to transfer the title of a boat to his child. A child of this young age would probably not understand the transaction. On the other hand, we recently encountered a situation involving a 12-year-old child who wanted to submit a sworn statement to the court regarding an incident that she witnessed. She actually wrote down what she had seen and wanted to sign her statement and swear to it in the presence of a notary. Most likely, a 12-year-old child would understand the act of swearing to the truthfulness of a statement.
+> 
+> In these types of situations, the notary should question the child to make sure that he or she understands the nature of an oath or an acknowledgment. The notary should also determine that the child is not being pressured or coerced to sign the document.
+> 
+> When a child is too young to comprehend the transaction, a parent sometimes signs on behalf of the child. If you are asked to notarize in that situation, it is the parent's signature that is to be notarized, not the child's.
+
+- **What about identification for a minor?** Any time you notarize a signature, the signer, including a minor, must provide acceptable identification to the notary. The problem, of course, is that most minors do not have one of the forms of acceptable identification listed in the Florida Statutes. There are two possible solutions.
+
+> First, you may be interested to know that any person 12 years of age or older may be issued a state identification card. To obtain the card, the person should apply at the local Division of Motor Vehicles office where driver's licenses are issued.  
+>   
+> Second, you may use the sworn written statement of a credible witness to identify the minor. (Please refer to page 33 for a full explanation of this method of identification.)
+
+When asked to notarize the signature of a minor, you may refuse to do so if you are unsure about any aspect of the notarization. In unusual situations, you may even suggest that the minor or his or her parent or guardian see an attorney.
+
+|   |
+|---|
+|of self-assessment|
+|Section Time:  Total time :|
+
+---
+
+### Self-assessment
+
+|   |
+|---|
+|1. When determining if a document signer is mentally competent and willing to execute the document you may want to ask the signer questions unrelated to the notarization.|
+|A. True|
+|B. False|
+|2. When notarizing for a person who is blind, you are not required to read the document to the document signer.|
+|A. True|
+|B. False|
+|3. When notarizing for a person who does not speak English the document must be translated into a language that the signer understands.|
+|A. True|
+|B . False|
+|4. When notarizing for a person who is signing a document written in a foreign language not understood by the notary, the notarial certificate must be completed in English.|
+|A. True|
+|B. False|
+|5. An individual with a disability may direct another person to sign on his or her behalf.|
+|A. True|
+|B. False|
+|6. When notarizing for a person with a Power of Attorney it is the notary's responsibility to ensure the document signer has the Power of Attorney.|
+|A. True|
+|B. False|
