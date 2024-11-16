@@ -1067,25 +1067,91 @@ By doing a favor for a friend, the notary was held liable for her improper notar
 
 ### Self-assessment
 
-|   |
-|---|
-|1. Although as a notary you are bonded, you may be held personally liable for any misconduct or negligence in the performance of your official duties.|
-|A. True|
-|B. False|
-|2. Florida Notaries are authorized by law to keep a journal of notarial acts.|
-|A. True|
-|B. False|
-|3. When using a journal to record your notarizations, it is a good idea to complete the journal entry prior to notarization.|
-|A. True|
-|B. False|
-|4. Whose responsibility is it to investigate allegations of misconduct against a notary public.|
-|A. Department of State|
-|B. Governor's Office|
-|C. Attorney General's Office|
-|D. Insurance Commissioner|
-|5. The majority of complaints, about 75 percent, are violations of the presence law.|
-|A. True|
-|B. False|
-|6. If a complaint allegation involves a criminal violation, the complaint is referred to the appropriate State Attorney's Office for investigation.|
-|A. True|
-|B. False|
+|                                                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1. Although as a notary you are bonded, you may be held personally liable for any misconduct or negligence in the performance of your official duties. |
+| A. True -                                                                                                                                              |
+| B. False                                                                                                                                               |
+| 2. Florida Notaries are authorized by law to keep a journal of notarial acts.                                                                          |
+| A. True                                                                                                                                                |
+| B. False -                                                                                                                                             |
+| 3. When using a journal to record your notarizations, it is a good idea to complete the journal entry prior to notarization.                           |
+| A. True -                                                                                                                                              |
+| B. False                                                                                                                                               |
+| 4. Whose responsibility is it to investigate allegations of misconduct against a notary public.                                                        |
+| A. Department of State                                                                                                                                 |
+| B. Governor's Office -                                                                                                                                 |
+| C. Attorney General's Office                                                                                                                           |
+| D. Insurance Commissioner                                                                                                                              |
+| 5. The majority of complaints, about 75 percent, are violations of the presence law.                                                                   |
+| A. True -                                                                                                                                              |
+| B. False                                                                                                                                               |
+| 6. If a complaint allegation involves a criminal violation, the complaint is referred to the appropriate State Attorney's Office for investigation.    |
+| A. True -                                                                                                                                              |
+| B. False                                                                                                                                               |
+
+## Electronic Notarization
+
+**What does electronic notarization mean to the traditional notary?**
+
+Florida defines a notary public as a public officer appointed and commissioned by the Governor whose function is to administer oaths; to take acknowledgments of deeds and other instruments; to attest to or certify photocopies of certain documents; and to perform other duties as specified by law. Electronic notarization is simply a different platform in which to perform these legally sanctioned acts.  
+  
+With the Internet permitting execution of online documents that often require notaries public to verify the identity of the individual, the notarized digital signature legally executes an electronic document. Now legally recognized, the digital signature is equivalent to the traditional signature and seal of the notary - the pen is now a mouse and the stamp an electronic icon.  
+  
+Using the Internet as a medium means transactions can happen at light speed for individuals and businesses alike. Transactions that previously took days or weeks to process can now be accomplished in a matter of minutes. Additionally, utilizing e-transactions results in a reduction of transaction and processing expenses.  
+  
+Little additional training is needed to begin using electronic signatures, as electronic notarization is the online version of the offline, hard-copy process. As more electronic notarizations are performed, the opportunity for more economic transactions grows as well.  
+  
+Various pilot projects around the nation have proven the practicality and legality of using electronic means to conduct business. The Internet provides Floridians huge opportunities to capture e-commerce efficiencies. The service and experience notaries bring to the online process will enable this to occur.  
+  
+A noteworthy transaction took place in Florida early this summer with the first fully paperless mortgage loan and home purchase in the United States was completed. The entire procedure was originated, underwritten, processed, approved, and recorded electronically. The transaction was enabled by Florida's Uniform Electronic Transactions Act, which specifically addresses the legality of electronic transactions, electronic records and electronic signatures. Importantly, electronic signatures were required at each phase of the process and these signatures still required a notary to perform the notarial act. However, instead of a traditional wet seal and signature, the acknowledgment was accomplished electronically.  
+  
+Same-day mortgages are only one example of how electronic signatures can benefit individuals. Other areas where electronic signatures can have a significant impact include business-to-business transactions, the financial and healthcare industries and governmental transactions (voting, accessing vital tax records, etc.). In some cases, the use of this technology will be mandatory to comply with state or federal regulation, such as the Healthcare Insurance Portability and Accountability Act (HIPAA).  
+  
+The electronic medium is becoming the accepted norm in our society. The benefits are numerous. Notaries will be an integral part of the Information Age by utilizing technology that allows you to perform notarial acts electronically. Those using electronic notarization technology will be early adopters of the cutting-edge e-commerce revolution - with the associated prestige gained by those offering e-solutions.
+
+[**Back to top**](https://notaries.dos.state.fl.us/education/chapters/elecnotqna.asp#top)
+
+**What is the need for electronic notarization?**
+
+In recent months, numerous measures were approved that gave digital signatures the same legitimacy as ink signatures. This includes various pieces of state legislation (including the Florida Uniform Electronic Transactions Act (Title 39 Chapter 668.50) and federal legislation known as the Electronic Signatures in Global and National Commerce Act (E-Sign Act), which was digitally signed by President Clinton on June 30, 2000 and took effect on October 1, 2000. What makes this bill so notable for notaries is Section 101(g), which recognizes the validity of electronic notarization.  
+  
+The passage of legislation removes many legal barriers to electronic commerce. Business continues to transcend time and space. Strangers do business with strangers locally and globally. The need to know that individuals are who they claim to be is critical in the business world. This legal setting provides a framework for the inclusion of electronic transactions. It is imperative that notaries be there to fill their role within this framework.  
+  
+The recent state and federal statutes concerning electronic transactions stemmed from governmental recognition of the significance of electronic commerce on the Internet. In 1999, the National Conference of Commissioners on Uniform State Laws (NCCSL) distributed what is known as the Uniform Electronic Transactions Act (UETA). The basic objective of UETA is to ensure that e-transactions are as enforceable as traditional paper transactions. UETA specifically addresses "electronic records and electronic signatures relating to a transaction."  
+  
+UETA applies to transactions only when both parties have agreed to conduct the transaction electronically. It should be noted that while UETA recognizes the legality of electronic signatures, in no way does the Act require their use. UETA is technology-neutral - no one security measure or electronic signature policy is endorsed. Individuals can choose to implement the electronic signing method or security procedure of their choice. Those who opt to process documents or forms online can rest assured that electronic notarization is available and legally recognized under UETA. Notaries, or other individuals authorized to notarize documents who implement this technology, will be at the forefront of the e-commerce revolution.  
+  
+The NCCSL's national effort effectively provided guidelines to govern e-transactions. Many states have thus followed suit to implement their version of UETA. Florida's own version of UETA took effect July 1, 2000, as detailed in Florida Statutes Title 39, Chapter 668.50. This section applies to electronic records and electronic signatures relating to a transaction. However, this does not apply to transactions that are governed by the creation or execution of wills or testamentary trusts, the UCC other than Sections 671.107 and 671.206, the Uniform Computer Information Transactions Act or by rules relating to judicial procedure. Furthermore, it facilitates the use of electronic notarization by removing the rubber stamp and impression requirements for those notarizations that are performed electronically.  
+  
+UETA, as the NCCSL had hoped, is beginning to take root in various state legislation. Florida is part of the vanguard in promoting and recognizing online documentation. Other states have implemented, or are implementing, legislation as well. Notary involvement is vital to making the acceptance of electronic commerce a success! Taking advantage of today's technology and legislation allows notaries to empower themselves for tomorrow's world.
+
+[**Back to top**](https://notaries.dos.state.fl.us/education/chapters/elecnotqna.asp#top)
+
+**How do e-notarization and e-signatures work?**
+
+How can a notary digitally sign a document? Typically an electronic version of a document (e.g., a Word or Excel document) or online form is presented to a notary public. The notary administers an oath or takes the acknowledgement of the document signer, remembering that all current notary law, (Florida Statutes, Chapter 117), must be followed. The document is then signed by the owner of the document with a digital certificate or with a UCC signature (typing his/her name in a box). In turn, the notary also digitally signs the document in a similar fashion. The document is now electronically notarized and can be transmitted (e.g., via email) or saved to disk. The process is practically the same as that of paper notarization.  
+  
+The actual process of digitally notarizing an electronic document can be implemented by a number of various structures and approaches that allow us to realize the benefits of e-transactions and e-notarizations. The underlying technology in accomplishing secure transactions and authenticating individuals is encryption. Encryption is a process that transforms data to an unreadable format so that the information remains secure. This allows for a measure of authenticity, integrity, and confidentiality. In short, by using this technology, one can validate the integrity of the document and verify the identity of an individual - the key to notarizing online documents.  
+  
+Digital notarizations commonly use digital signatures, a type of electronic signature, in place of wet signatures. A digital signature, using the technology of a digital certificate, is a form of encrypted data that can be used to authenticate an individual and his or her document.  
+  
+The technology that allows for digital certificates and electronic signatures is precisely what makes electronic notarization legally acceptable. A digital signature is part of a system called Public-key Infrastructure (PKI) and has a corresponding component called a digital certificate. PKI is the generally accepted method of ensuring e-commerce security. Confidentiality, authentication, integrity and non-repudiation are four important ingredients required for trust in e-commerce transactions. The emerging response to meet these requirements is the implementation of PKI technology. In basic terms, PKI allows an individual to obtain a digital certificate, which then would be used to affix that individual's digital signature to an electronic document. A digital certificate holds vital information and allows for authentication of the individual, through the use of two related "keys," your private key and your public key, known as a key pair.  
+  
+Public key infrastructure incorporates various terms and technologies such as message digests (hash functions), asymmetric cryptography, tokens, X.509 certificates, public and private keys, nonrepudiation, and others. There is no doubt that the technologies used to digitally sign documents can be daunting. But for you, the notary, using this technology is completely transparent. Electronic notarization is achievable without requiring you to know the fundamental technology, allowing you to expand your notarial role without having to invest a lot of time in learning a new technology.  
+  
+A digital certificate is a credential (think of it as a driver's license online), issued by a trusted third party, known as a Certification Authority (CA) that validates individuals or organizations. A digital certificate is the foundation that allows a user to authenticate other users and to sign transactions with legally binding signatures.  
+  
+The (CA) stores or archives digital certificates and serves to validate a digital signature (and therefore a notarization's signatory). As stated, various firms act in this capacity including ARCANVS, Baltimore Technologies, Entrust Technologies, Thawte, and Verisign. Though methods and authentication procedures vary, all CAs provide a means to distribute digital certificates, maintain a repository of their issued certificates, and validate the identity of any certificate holder.  
+  
+That is all there is to it! The procedure remains essentially the same. You can view a digital signature as another form of the traditional pen - one you use to sign the document.
+
+[**Back to top**](https://notaries.dos.state.fl.us/education/chapters/elecnotqna.asp#top)
+
+**How do I begin?**
+
+To begin with, you can start by learning more about digital certificates and electronic security measures such as PKI. Contact any certification authority that specializes in witnessed-identity authentication. Additionally, there are several online sites that offer a wealth of information concerning security in an electronic arena.  
+  
+Second, conduct research on companies that offer digital certificates and become familiar with the electronic notarization environment. The need remains the same, but there are differences in how an electronic document is notarized. Knowing how the procedures work will ensure a smooth transition to electronic transactions, as well as make you an expert.  
+  
+Finally, relax! Technology does not necessarily mean adverse change. Recognizing the benefits that electronic notarization provides will help you allay any concerns. Your role will not diminish. On the contrary, incorporating electronic notarization into your functions will prepare you for the future - and add skills that make you more valuable to your employer and clients.
