@@ -616,4 +616,140 @@ Many notarized blank forms have been found at car dealerships by DMV investigato
 | A. True                                                                                                                                                                                     |
 | B. False                                                                                                                                                                                    |
 
+## Notaries in special positions
+## **Government Employees as Notaries Public**
+
+A government agency, i.e., state, county, or municipal, is authorized to pay the cost of securing a notary commission for one or more of its employees. Such cost is deemed to be an expense of the agency. See sections 116.35 and 116.36, Florida Statutes.
+
+Based upon research and interpretation of the applicable laws, the following statements reflect the position of the Governor's Notary Section regarding government employees who are notaries:
+
+- Although the government agency pays for the commission, it is the employee who is the appointed notary public, not the agency. Such employee-notary is a notary public 24 hours a day, 7 days a week, for the entire 4-year term of appointment, unless the notary dies, resigns, or is suspended or removed from office by the Governor or the Florida Senate.  
+    
+- The government agency may set regulations regarding the use of the notary's commission during the employee-notary's regular business hours.  
+    
+- All fees collected by the employee-notary for notary services rendered during business hours belong to the government agency, pursuant to sections 116.35, 116.38. The government agency has the authority to set the notary fees to be charged by that agency for its notary services to the public, but such fees may not exceed the allowable fees specified in Chapter 117, Florida Statutes.  
+    
+- The employee-notary may perform notarial acts outside his employment and may charge fees for those notary services not exceeding the fees set by law. Such fees belong to the notary public. See sections 117.05(2), 117.045, and 28.24(29).  
+    
+- The notary seal, the notary commission certificate, and any other papers belonging to the notary public, i.e., a record book or journal of notarial acts, are the property of the notary public. These items are not the property of the government agency, even if the agency paid for such items. Even upon termination of employment, these items belong to the notary public. It is the notary's responsibility to secure the notary seal to prevent its misuse. Any unauthorized use of a notary seal by a person who is not the lawfully commissioned notary public is a criminal offense. It is also unlawful for a person to possess a notary seal or commission certificate when that person is not the lawfully commissioned notary public. See sections 117.05(7) and (8).  
+    
+- Both the employee-notary and the government agency are liable for all notarial acts performed by the employee-notary within the scope of his or her employment, pursuant to section 117.05(6).  
+    
+- The government agency is not liable for notarial acts performed by the employee-notary outside his normal employment responsibilities.  
+    
+- Upon termination of employment by the employee-notary, the government agency's liability for notarial acts performed in the future by the former employee-notary also terminates. However, the government agency may always be held liable for any notarial acts performed by the employee-notary during his or her period of employment.  
+    
+- When the employee-notary terminates employment with the government agency, the government agency does not have the authority to request, nor require, the resignation of the employee-notary from the office of notary public. The notary public was appointed by the Governor, and only the Governor may request or require the resignation of a notary.
+
+## [**Back to top**](https://notaries.dos.state.fl.us/education/chapters/position.asp#top)
+
+## **Law Enforcement Officers as Notaries**
+
+Florida law provides that certain law enforcement officers or correctional officers may act as notaries in some instances. These officers are limited in what they are authorized to do in fact, they may only administer oaths "when engaged in the performance of official duties." See §117.10, Florida Statutes. For example, if they are conducting an investigation, they may take sworn statements from witnesses.  
+  
+This law is applicable to the following officers:
+
+- Law enforcement officers  
+    
+- Correctional officers  
+    
+- Correctional probation officers  
+    
+- Traffic accident investigation officers  
+    
+- Traffic infraction enforcement officers
+
+See sections 943.10 and 316.640, Florida Statutes, for definitions of these officers.
+
+The law does not authorize these officers to take acknowledgments, to make attested photocopies, or to solemnize marriage, nor are they permitted to notarize their own signatures. Additionally, these officers do not have to apply for appointment, obtain the required notary bond, use a notary seal, or complete notarial certificates.
+
+## [**Back to top**](https://notaries.dos.state.fl.us/education/chapters/position.asp#top)
+
+## **Military Officers as Notaries Public**
+
+Florida law authorizes certain commissioned military officers to administer oaths and take acknowledgments. §§92.51 & 695.031, Fla. Stat. However, the power given to these military officers is limited. They are authorized to "notarize signatures" when documents must be executed by persons also serving in the Armed Forces. These officers are not notaries public they are only authorized to perform the two most common notarial acts.
+
+The military officer must be on active duty serving in or with the United States Armed Forces, including the Army, Air Force, Navy, Marine Corps, Coast Guard, or any component of one of these, and must be above the rank of second lieutenant or higher in the Army, Air Force or Marine Corps, or ensign or higher in the Navy or Coast Guard.  
+
+The person whose signature is to be "notarized" by taking the oath or making the acknowledgment must also be a member of the United States Armed Forces and be serving on active duty. The military officer may also notarize the signature of the spouse of such military personnel, or the signature of a person whose duties require his or her presence with the Armed Forces.
+
+As required for notaries, the military officer is required to prove the identity of the document signer, although no specific form of identification is specified by law. He or she must personally know the document signer or have "satisfactory proof" of the person's identity. §695.09, Fla. Stat.
+
+The military officer is not required to use a seal.
+
+When performing a notarial act, the military officer is not bound by geographical boundaries, as is the notary public. The notarization may take place "within or without the United States." This allows military personnel serving outside the United States, and their spouses, to execute their documents without having to find a notary public in a foreign country or appear before a consul or embassy official.
+
+Documents properly executed in the presence of a military officer in the manner prescribed by law are entitled to recording in Florida.
+
+Although not required, it is recommended that the military officers print or type their name below their signature and provide their service or serial number for identification purposes. §695.25, Fla. Stat. No venue, or location of the notarial act, is required but, again, adding this information is recommended.
+
+Certain federal law and military regulations also govern the authority of military officers to act as notaries public. More specific information can be obtained from a military legal assistance office.
+
+_The following certificate is provided in Florida law for use by a military officer when performing these special notarizations._
+
+![](https://notaries.dos.state.fl.us/education/chapters/..%5Cimages/militaryfm.gif)
+
+  
+
+|   |
+|---|
+|of self-assessment|
+|Section Time:  Total time :|
+
+---
+
+### Self-assessment
+
+|   |
+|---|
+|---<br><br>All answers are correct.  <br>  <br><br>---|
+
+  
+
+|                                                                                                                               |
+| ----------------------------------------------------------------------------------------------------------------------------- |
+| Correct                                                                                                                       |
+| 1. Although the government agency pays for the commission, it is the employee who is appointed Notary Public, not the agency. |
+| A. True -                                                                                                                     |
+| B. False                                                                                                                      |
+
+|                                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Correct                                                                                                                                    |
+| 2. A government agency is liable for notarial acts performed by the employee-notary outside his or her normal employment responsibilities. |
+| A. True                                                                                                                                    |
+| B. False -                                                                                                                                 |
+
+|                                                                                                                                  |
+| -------------------------------------------------------------------------------------------------------------------------------- |
+| Correct                                                                                                                          |
+| 3. Certain law enforcement officers or correctional officers may act as notaries in some instances. They are only authorized to: |
+| A. Solemnize Marriage                                                                                                            |
+| B. Take Acknowledgements                                                                                                         |
+| C. Administer Oaths -                                                                                                            |
+| D. Make Attested Photocopies                                                                                                     |
+
+|                                                                                                                                                                                         |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Correct                                                                                                                                                                                 |
+| 4. These law enforcement officers or correctional officers do not have to apply for appointment, obtain the required notary bond, use a notary seal, or complete notarial certificates. |
+| A. True -                                                                                                                                                                               |
+| B. False                                                                                                                                                                                |
+
+  
+
+|                                                                                                                                                 |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Correct                                                                                                                                         |
+| 5. Florida law authorizes certain military officers to administer oaths or take acknowledgements of other military personnel and their spouses. |
+| A. True -                                                                                                                                       |
+| B. False                                                                                                                                        |
+
+|                                                              |
+| ------------------------------------------------------------ |
+| Correct                                                      |
+| 6. The military officer is bound by geographical boundaries. |
+| A. True                                                      |
+| B. False -                                                   |
+
 ## 
