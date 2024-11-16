@@ -424,3 +424,195 @@ The law authorizing notaries to perform this function became effective on July 3
     |6. A Florida Notary Public may perform a marriage ceremony in the state of Georgia.|
     |A. True|
     |B. False|
+
+
+## Prohibited Acts for Notaries
+_From Chapter 117, Florida Statutes  
+_**A notary public may not notarize a signature on a document if:**
+
+- The person whose signature is being notarized is not in the presence of the notary at the time the signature is notarized. §117.107(9).  
+    
+- The document is incomplete. §117.107(10).  
+    
+- The notary public actually knows that the person signing the document has been adjudicated mentally incapacitated. §117.107(4).  
+    
+- The person whose signature is to be notarized is the spouse, son, daughter, mother, or father of the notary public. §17.107(11).  
+    
+- The notary public has a financial interest in or is a party to the underlying transaction. §17.107(12).
+
+**Also, a notary public may not:**
+
+- Give legal advice, unless the notary public is a licensed attorney. §117.01(4)(f).  
+    
+- Take an acknowledgment of execution in lieu of an oath if an oath is required. §117.03.  
+    
+- Obtain or use a notary commission in a name other than his or her legal name. §117.05(1).  
+    
+- Notarize his or her own signature. §117.05(1).  
+    
+- Charge more than $10 for any one notarial act or more than $20 for solemnizing the rites of matrimony. §§117.05(2), 117.045, 28.24(29), & 839.11.  
+    
+- Notarize a signature on a document unless the notary personally knows the signer or has satisfactory evidence of identification. §117.05(5).  
+    
+- Act as a notary public after his or her commission has expired. §117.05(8).  
+    
+- Translate the phrase "Notary Public" into a language other than English in an advertisement for notarial services. §117.05(11).  
+    
+- Attest to the trueness of a photocopy of a public record if a copy can be made by another public official. §117.05(12)(a).  
+    
+- Use a name or initial in signing certificates other than that by which the notary public is commissioned. §117.107(1).  
+    
+- Sign a blank form of affidavit or certificate of acknowledgment. §117.107(3).  
+    
+- Take the acknowledgment of a person who is blind until the notary public has read the instrument to such person. §117.05 (14)(a).  
+    
+- Take the acknowledgment of a person who does not speak or understand the English language, unless the nature and effect of the instrument to be notarized is translated into a language which the person does understand. §117.107(6).  
+    
+- Change anything in a written instrument after it has been signed by anyone. §117.107(7).
+- Notarize a signature on a document if it appears that the person is mentally incapable of understanding the nature and effect of the document at the time of notarization. §117.107(5).
+
+### [**Back to top**](https://notaries.dos.state.fl.us/education/chapters/prohibit.asp#top)
+
+**Penalties for Violations  
+**
+
+> **(Grounds for Suspension)**
+
+The State Constitution authorizes the Governor to suspend a notary public from office for "malfeasance, misfeasance, neglect of duty, drunkenness, incompetence, permanent inability to perform his official duties, or commission of a felony." s.7, Art. IV, Fla. Const.
+
+> **_Subsection 117.01(4) of the Florida Statutes provides:_**
+
+The Governor may suspend a notary public for any of the grounds provided in s. 7, Art. IV of the State Constitution. Grounds constituting malfeasance, misfeasance, or neglect of duty include, but are not limited to, the following:
+
+> (a) A material false statement on the application.
+> 
+> (b) A complaint found to have merit by the Governor.
+> 
+> (c) Failure to cooperate or respond to an investigation by the Governor's Office or the Department of State regarding a complaint.
+> 
+> (d) Official misconduct as defined in s. 839.25.
+> 
+> (e) False or misleading advertising relating to notary public services.
+> 
+> (f) Unauthorized practice of law.
+> 
+> (g) Failure to report a change in business or home address or telephone number within the specified period of time.
+> 
+> (h) Commission of fraud, misrepresentation or any intentional violation of Chapter 117.
+> 
+> (i) Charging fees in excess of fees authorized by Chapter 117.
+> 
+> (j) Failure to maintain the bond required.
+
+**Civil Penalty**
+
+_Section 117.107(9) of the Florida Statutes provides in part:_
+
+A notary public may not notarize a signature on a document if the person whose signature is being notarized is not in the presence of the notary public at the time the signature is notarized. Any notary public who violates this paragraph is guilty of a civil infraction, punishable by penalty not exceeding $5,000, and that conduct constitutes malfeasance and misfeasance in the conduct of official duties. It is no defense to the civil infraction specified in this paragraph that the notary public acted without intent to defraud. A notary public who violates this paragraph with the intent to defraud is guilty of violating s.117.105.
+
+**Criminal Penalties**
+
+- No person shall obtain or use a notary public commission in other than his legal name, and it is unlawful for a notary public to notarize his own signature. Any person applying for a notary public commission must submit proof of his identity to the Department of State if so requested. Any person who violates the provisions of this subsection is guilty of a felony of the third degree, punishable as provided in s. 775.082 s 775.083, or s. 775.084. § 117.05(1).  
+    
+- Any person who acts as or otherwise willfully impersonates a notary public while not lawfully appointed and commissioned to perform notarial acts is guilty of a misdemeanor of the second degree, punishable as provided in s. 775.082 or s. 775.083. § 117.05(7).  
+    
+- Any person who unlawfully possesses a notary public official seal or any papers or copies relating to notarial acts is guilty of a misdemeanor of the second degree, punishable as provided in s. 775.082 or s. 775.083. § 117.05(3)(e).  
+    
+- Any notary public who knowingly acts as a notary public after his commission has expired is guilty of a misdemeanor of the second degree, punishable in s. 775.082, s. 775.083, or § 117.05(8).  
+    
+- A notary public who falsely or fraudulently takes an acknowledgment of an instrument as a notary public or who falsely or fraudulently makes a certificate as a notary public or who falsely takes or receives an acknowledgment of the signature on a written instrument is guilty of a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, s.775.084, or §117.105.
+
+### [**Back to top**](https://notaries.dos.state.fl.us/education/chapters/prohibit.asp#top)
+
+### **Other Prohibited Acts**
+
+- Do not notarize a [photograph](https://notaries.dos.state.fl.us/education/chapters/Photo)_.  
+    _
+- Do not notarize a copy of a [birth certificate](https://notaries.dos.state.fl.us/education/chapters/Dont), or any other vital record or public record.  
+    
+- Do not certify a translation of a document from one language into another.
+- Do not provide signature guarantees. This duty is usually performed by officials in the banking and securities industry.  
+    
+- Do not certify the authenticity of objects, such as art or sports memorabilia.  
+    
+- Do not judge contests or certify contest results.  
+    
+- Do not certify a person's residency or citizenship status.  
+    
+- Do not prepare legal documents, or immigration papers, unless you are an attorney licensed to practice in Florida.
+
+### [**Back to top**](https://notaries.dos.state.fl.us/education/chapters/prohibit.asp#top)
+
+### **Don't Notarize Photographs**
+
+Occasionally, you may be asked to "notarize" a photograph. Please be aware that certifying or notarizing photographs is not an authorized notarial act under Florida law.
+
+You may, however, notarize a person's signature on a written statement concerning the photograph. For example, if John Doe wants to certify that the person in a particular photograph is John Doe, he could sign a sworn written statement stating that the photograph is of John Doe. You could then notarize his signature on that statement in the same way that you notarize any sworn written statement. His statement could be made on the back of the photograph or on a separate paper to be attached to the photograph.
+
+Keep in mind that you should not certify or attest that the person in the photograph is John Doe. Rather, you should certify that the statement concerning the photograph was signed and sworn to in your presence by John Doe. This is accomplished by using the standard notarial certificate (jurat) provided in the Florida Statutes for oaths. Remember, you should never apply your notary seal to and sign any document without completing a proper notarial certificate.
+
+## [**Back to top**](https://notaries.dos.state.fl.us/education/chapters/prohibit.asp#top)
+
+## **Don't Provide Certified Copies of  
+Birth Certificates**
+
+The Notary Section continues to receive numerous inquiries about certifying copies of birth certificates. A notary public may NOT make a certified photocopy of a birth certificate, whether it was issued in Florida, another state, or a foreign country. Birth certificates are official records and certified copies may be obtained from the public official who is the custodian of the records.
+
+The typical problem arises when a person is leaving the country within a few days and is required by his or her travel agency to have a "notarized" birth certificate. The word "notarized" immediately sends the person to a notary public. Actually, a person should obtain a "certified" copy of his or her birth certificate, rather than a "notarized" copy. Notaries should decline to certify or notarize these documents for two reasons.
+
+First, a notary public may not attest to the trueness of a photocopy of a public record if a copy can be made by another public official. The Florida Department of Health retains vital records such as birth certificates, death certificates, marriage licenses, and certain divorce records. The Department produces certified copies of these documents when requested by an authorized person.
+
+Second, a notary public may only attest to the trueness of a photocopy of an original document. Most people do not possess their original birth certificate; they only have a certified copy.
+
+Additionally, Florida law prohibits even the photocopying of birth certificates. This would eliminate the alternative procedure of attaching an affidavit to a photocopy of a birth certificate in which a party swears that the photocopy is a true copy of the birth certificate.
+
+Officials at the Bureau of Vital Statistics in Jacksonville, where Florida vital records are housed, report that birth certificates and other vital records are available from their office and may be available for the last 30 years from the county health department in most counties in Florida. The Jacksonville office takes orders by telephone using a major credit card for payment and even offers express or overnight delivery for an additional fee. It is best, of course, to request such records in writing allowing 2-3 weeks for delivery.  
+  
+If you are requested to make a certified copy of a birth certificate, or other vital record, please decline and refer the party to the public office holding that record. If the document is a Florida vital record, the party may go to the county health department or write to:
+
+**Department of Health  
+Bureau of Vital Statistics  
+Vital Records Section  
+1217 Pearl Street  
+Jacksonville, Florida 32202**
+
+For telephone orders or additional information, the party may call the Jacksonville office at (904) 359-6931 [](http://voice.google.com/calls?a=nc,%2B19043596931 "Call +1 904-359-6931 via Google Voice")or (904) 359-6912[](http://voice.google.com/calls?a=nc,%2B19043596912 "Call +1 904-359-6912 via Google Voice").
+
+## [**Back to top**](https://notaries.dos.state.fl.us/education/chapters/prohibit.asp#top)
+
+## **Don't Notarize Blank Documents**
+
+Apparently, it is a common practice for people to sign a blank power of attorney form to facilitate the sale of a motor vehicle. Notaries should be careful not to notarize incomplete documents.
+
+Many notarized blank forms have been found at car dealerships by DMV investigators and are often presented to officials at U.S. Customs in Miami. According to officials at these agencies, incomplete forms will not be accepted, and if notarized, they will be presented to the State Attorney's Office and to the Governor's Office for investigation and appropriate action.
+
+|   |
+|---|
+|of self-assessment|
+|Section Time:  Total time :|
+
+---
+
+### Self-assessment
+
+|                                                                                                                                                                                             |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1. A Notary Public may not notarize a signature on a document if the person whose signature is being notarized is not in the presence of the notary at the time the signature is notarized. |
+| A. True                                                                                                                                                                                     |
+| B. False                                                                                                                                                                                    |
+| 2. A Notary Public may notarize the signature of their spouse.                                                                                                                              |
+| A. True                                                                                                                                                                                     |
+| B. False                                                                                                                                                                                    |
+| 3. A Notary Public may notarize a document that is incomplete.                                                                                                                              |
+| A. True                                                                                                                                                                                     |
+| B. False                                                                                                                                                                                    |
+| 4. A Notary Public may not give legal advice unless the notary public is a licensed attorney.                                                                                               |
+| A. True                                                                                                                                                                                     |
+| B. False                                                                                                                                                                                    |
+| 5. A Notary Public may use a name or initial in signing certificates other than that by which the notary public is commissioned.                                                            |
+| A. True                                                                                                                                                                                     |
+| B. False                                                                                                                                                                                    |
+| 6. A Notary Public may not change anything in a written statement after it has been signed by anyone.                                                                                       |
+| A. True                                                                                                                                                                                     |
+| B. False                                                                                                                                                                                    |
+
