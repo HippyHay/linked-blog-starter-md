@@ -1177,3 +1177,11 @@ At this point in the story, do any of the licensees owe Kylie fiduciary duties? 
 None of the licensees being interviewed by Kylie have an agency agreement with her simply on the basis of having an interview. After all, she told all of them at the conclusion of the interviews that she was noncommittal and would need time to think about who she wanted to represent her. In an interview like this, however, things could progress to a point where an agency relationship is either formally established (with proper written disclosures shared) or presumed based on the conversation — something that is very possible in Florida!
 
 
+Ex.3:
+### Kylie Buys a Home: Sign & Drive
+
+When Abby and Kylie met up on Wednesday to look at condos, Abby told Kylie that she would love to represent Kylie as her buyer agent, and if Kylie was agreeable to that, Abby would explain the ramifications of that decision.
+
+Abby shared with Kylie the proper disclosure form for single agent relationship and walked her through a buyer-representation agreement before asking Kylie to sign the contract.
+
+With signatures in place, Abby gave Kylie copies of these documents and they headed out to look at properties.
