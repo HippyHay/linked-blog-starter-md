@@ -1164,8 +1164,16 @@ Finally, relax! Technology does not necessarily mean adverse change. Recognizing
 When a buyer or seller signs an agency relationship agreement with a sales associate, they are actually agreeing to an agency relationship with that licensee's sponsoring broker.
 
 Example: 
-# Kylie Buys a Home: The Interviews
+### Kylie Buys a Home: The Interviews
+
+When Kylie decided to take the plunge and become a homeowner, she also decided that the first step was to find a real estate agent she could trust to guide her through the process.
+
+Over the weekend, she interviewed Jake, Sam, Abby, and Tina — all licensed sales associates from different brokerages in her town.
+
+She told all four that she appreciated hearing what they had to offer and that she was going to take a couple of days to think about what she had heard.
 
 At this point in the story, do any of the licensees owe Kylie fiduciary duties? Do any of them have an agency relationship with Kylie? If so, why? If not, why not?
 
 None of the licensees being interviewed by Kylie have an agency agreement with her simply on the basis of having an interview. After all, she told all of them at the conclusion of the interviews that she was noncommittal and would need time to think about who she wanted to represent her. In an interview like this, however, things could progress to a point where an agency relationship is either formally established (with proper written disclosures shared) or presumed based on the conversation — something that is very possible in Florida!
+
+
