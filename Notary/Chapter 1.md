@@ -1155,3 +1155,11 @@ To begin with, you can start by learning more about digital certificates and ele
 Second, conduct research on companies that offer digital certificates and become familiar with the electronic notarization environment. The need remains the same, but there are differences in how an electronic document is notarized. Knowing how the procedures work will ensure a smooth transition to electronic transactions, as well as make you an expert.  
   
 Finally, relax! Technology does not necessarily mean adverse change. Recognizing the benefits that electronic notarization provides will help you allay any concerns. Your role will not diminish. On the contrary, incorporating electronic notarization into your functions will prepare you for the future - and add skills that make you more valuable to your employer and clients.
+
+
+## Created on the Broker Level
+
+**Agency relationships are created on the broker level.**
+
+When a buyer or seller signs an agency relationship agreement with a sales associate, they are actually agreeing to an agency relationship with that licensee's sponsoring broker.
+
