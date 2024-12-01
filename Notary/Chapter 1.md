@@ -1185,3 +1185,8 @@ When Abby and Kylie met up on Wednesday to look at condos, Abby told Kylie that 
 Abby shared with Kylie the proper disclosure form for single agent relationship and walked her through a buyer-representation agreement before asking Kylie to sign the contract.
 
 With signatures in place, Abby gave Kylie copies of these documents and they headed out to look at properties.
+
+Abby had the conversation with Kylie first thing in hopes of committing Kylie to a single agent relationship agreement before Abby invested any time or gas driving Kylie around town. And when Abby went through the agency agreement with Kylie, Abby explained that Kylie's agreement would actually be with Abby's broker, Albert, because agency agreements with clients are always entered into at the broker level.
+
+
+
