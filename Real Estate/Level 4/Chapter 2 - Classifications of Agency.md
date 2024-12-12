@@ -68,8 +68,23 @@ Interestingly enough, the general agency a broker extends to the sponsored licen
 
 The general agency that exists between a broker and a sponsored licensee:
 - Gives the licensee a broader (than special agency) scope of authority to act AND
-- Holds the broker responsible for actions performed by their agent (the sponsored licensee)
+- Holds the broker responsible for actions performed by their agent (the sponsored licensee)- 
+#### Example
+When Sales Associate Selah signs a listing agreement with Seller Tim, Sales Associate Selah has created a binding agency relationship between Seller Tim and Selah's broker.
+Because of the _general agency_ relationship that exists between sponsored licensees and their brokers, Selah's broker will honor Sales Associate Selah's action of entering into the listing agreement on their behalf.
 
+### The Ties that Bind
+the ability to bind.
+
+- Special agency ≠ binding authority
+    
+- **General agency = binding authority**
+		Also universal has binding
+
+### General Agency in Property Management
+License holders operating as **property managers** also **require general agency** to carry out their duties for a couple of reasons:
+1. Their duties are **ongoing** and multifaceted within their area of concern, so they need a **wider scope of authority**.
+2. They typically have the **power to bind** the principal (property owner) to rental agreements and other needed contracts.
 
 
 
