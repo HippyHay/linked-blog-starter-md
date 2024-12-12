@@ -101,3 +101,8 @@ While reading her scope of authorized activities, Tatiana noticed that Broker Jo
 In order to list commercial real estate, Broker Joseph required every sponsored sales associate to:
 - Have at least two years of real estate sales experience
 - Complete a commercial real estate education class
+
+Why do you think listing commercial real estate was placed outside of a new licensee's scope of authority by Broker Joseph?
+Commercial real estate often involves a greater deal of complexity and often involves higher priced properties. Since Broker Joseph could be held liable for the authorized activities of new licensees, he likely feels that commercial real estate requires greater experience and expertise than new licensees have, and he does not want to be held responsible for rookie mistakes!
+
+
