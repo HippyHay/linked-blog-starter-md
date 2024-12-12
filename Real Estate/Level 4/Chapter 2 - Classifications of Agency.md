@@ -131,3 +131,9 @@ Geni
 per Florida Statute 475.25(1)(q), the **Commission may suspend or revoke a license or impose a fine up to $5,000 per violation** of any provision of Sections 475.2755 or 475.278, including the duties owed under those sections.
 The misdeeds of a sponsored licensee can get a broker into trouble.
 #### Public Record
+Information that is placed on record with the Department of Business and Professional Regulation includes:
+- The name and address of each licensed broker and sales associate
+- The name and business address of each sales associate’s employer (meaning their sponsoring broker)
+- The sales associate’s and broker’s license status (active or inactive)
+- The person’s involvement as an officer, director, or partner of a real estate business
+
