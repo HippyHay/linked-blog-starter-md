@@ -57,7 +57,18 @@ A **general agent** is one who is **authorized to manage all of a party's aff
 **special agent < general agent < universal agent**
 
 A general agent is typically someone authorized to represent the **ongoing** business interests of another
-### Ongoing
+#### Ongoing
+
+### General Agency in Real Estate
+The classic example of a general agency relationship is **the relationship between a broker and a sponsored licensee.**
+- The sponsored licensee is the general agent of the broker.
+- The broker is the party represented by the sponsored licensee.
+Interestingly enough, the general agency a broker extends to the sponsored licensee allows the licensee to operate as a special agent on behalf of the broker's customers and clients.
+![General agency flow chart showing a broker entrusts sponsored licensee to act as a special agent to preform duties owed to the party representative.](https://d1u7daj727sadp.cloudfront.net/images/FL_GeneralAgencyRelationship_4426.png)
+
+The general agency that exists between a broker and a sponsored licensee:
+- Gives the licensee a broader (than special agency) scope of authority to act AND
+- Holds the broker responsible for actions performed by their agent (the sponsored licensee)
 
 
 
