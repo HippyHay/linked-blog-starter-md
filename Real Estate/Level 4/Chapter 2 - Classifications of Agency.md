@@ -89,3 +89,15 @@ License holders operating as **property managers** also **require general age
 Which of the following is an example of a general agency relationship?
 - a broker and a sponsored licensee 
 
+### Example
+Anthony is Joe's agent, operating as the property manager of the luxury apartment building Joe owns. Anthony's responsibilities are ongoing and have binding power on Joe. What kind of agent is Anthony?
+general agent
+
+What kind of agency exists between Broker Joseph and Sales Associate Tatiana? Tatiana's first assignment was to become familiar with the brokerage policy manual and her scope of authorized activities. Why would that information be important to their agency relationship?
+
+As a sponsored sales associate, Tatiana is a general agent for Broker Joseph, meaning that she has a fairly broad scope of authority to act in his name. And because of that, the limits of Tatiana's general agency need to be spelled out — which happens to be the exact purpose for the policy manual and the onboarding process that provided Tatiana with a list of her authorized activities.
+### Example
+While reading her scope of authorized activities, Tatiana noticed that Broker Joseph authorized new sales associates to list residential real estate properties but did NOT authorize them to list commercial real estate.
+In order to list commercial real estate, Broker Joseph required every sponsored sales associate to:
+- Have at least two years of real estate sales experience
+- Complete a commercial real estate education class
