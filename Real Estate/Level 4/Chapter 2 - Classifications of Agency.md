@@ -105,4 +105,23 @@ In order to list commercial real estate, Broker Joseph required every sponsored 
 Why do you think listing commercial real estate was placed outside of a new licensee's scope of authority by Broker Joseph?
 Commercial real estate often involves a greater deal of complexity and often involves higher priced properties. Since Broker Joseph could be held liable for the authorized activities of new licensees, he likely feels that commercial real estate requires greater experience and expertise than new licensees have, and he does not want to be held responsible for rookie mistakes!
 
+### Example
+Fast-forward three months, and Anna, a friend and local businesswoman, approaches Tatiana, saying that she planned to list her warehouse for sale. Anna asks if Tatiana will handle it for her since Anna feels she can trust Tatiana.
 
+Tatiana, wanting to help her friend, has Anna sign a listing agreement.!
+
+Anna asks Tatiana to help her list her warehouse for sale. Tatiana then asks her to sign a listing agreement.
+
+Several weeks later, however, a deal falls through on Anna's property, and Anna blames Tatiana for mismanaging the deal.
+
+When Anna complains to the state real estate commission, Broker Joseph is asked by state officials whether Tatiana had operated under the scope of her authorized activities.
+
+Answer:
+Because Tatiana was not authorized to list commercial properties and because Joseph has a paper with Tatiana's signature showing that she understood she was not approved to list commercial real estate, Tatiana may face a possible suspension or revocation of her real estate license and any potential financial restitution. If Joseph were unaware of and did not approve of Tatiana's involvement in this transaction, only Tatiana should be held responsible
+
+
+
+
+Sales Associate Andie's supervising broker is Geni. In their general agency relationship, who is the party being represented?
+
+Geni
