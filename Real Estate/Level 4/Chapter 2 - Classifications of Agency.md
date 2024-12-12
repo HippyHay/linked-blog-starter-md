@@ -9,7 +9,7 @@ Things learned:
 - Special agency
 - General agency    
 - Universal agency
-### Special Agency
+## Special Agency
 **Special agency**, a.k.a. _limited agency_, restricts an agent's scope of authority to one or more specific acts as directed by the party — usually towards a single, specific objective, end, or goal.
 Not ongoing
 Most limited in scope
@@ -48,5 +48,11 @@ Agency relationships are created at the broker level has certain implications:
 - **Commission:** The commission rate is negotiated between the party and the broker.
 - **Listings:** If a sales associate switches brokerages, the parties the licensee was working with before the switch remain with the sales associate's former sponsoring broker.
 End of chapter example:
+
 A special agent's scope of authority is narrow and usually:
 - short term
+## General Agency
+A **general agent** is one who is **authorized to manage all of a party's affairs within certain specified areas**
+
+**special agent < general agent < universal agent**
+
