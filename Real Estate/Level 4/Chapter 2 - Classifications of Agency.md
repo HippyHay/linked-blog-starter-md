@@ -127,7 +127,7 @@ Geni
 ## General Agent: Broker Responsibility
 - sponsored licensees have the ability to bind their broker to the actions the licensees take 
 - the broker can be held responsible for the approved actions of their sponsored licensees.
-
 #### Discipline, Violations, and Penalties
 per Florida Statute 475.25(1)(q), the **Commission may suspend or revoke a license or impose a fine up to $5,000 per violation** of any provision of Sections 475.2755 or 475.278, including the duties owed under those sections.
-
+The misdeeds of a sponsored licensee can get a broker into trouble.
+#### Public Record
