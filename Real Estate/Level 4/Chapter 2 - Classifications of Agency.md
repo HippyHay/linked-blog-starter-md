@@ -20,10 +20,33 @@ Buddy's special agency was restricted in scope in two respects:
 2. He could bid no more than $750 for the vase.
 #### Special Agency in Real Estate
 **The relationship between real estate brokers and the parties they represent will almost always be a special agency relationship,** with the single, specific goal being the sale or purchase of a property.![A special agency flow chart showing a broker is authorized to preform specific actions for the party represented.](https://d1u7daj727sadp.cloudfront.net/images/FL_SpecialAgencyRelationship_4425.png)
-
 #### Actions
 - Listing the party's home on the MLS
-
 - Showing the party's home to potential buyers
-    
 - Representing the party's interests as a buyer at an open house
+#### Special Agency ≠ Binding
+A significant limitation in special agency relationships is that **special agents are unable to make decisions that would bind or obligate the party they represent.**
+#### Example
+
+When Seller Tim signs a listing agreement with Broker Sally, he granted Sally special agency to list his house on MLS, negotiate with potential buyers, and host open houses at his residence on the weekends.
+
+Seller Tim does not, however, authorize Broker Sally to make decisions that bind him. For example, Sally cannot accept an offer from a buyer on Tim's behalf. Tim still gets to make the decision to accept a buyer's offer.
+
+### Between the Broker and the Party
+Agency is created on the broker level
+Whatever duties the broker owes the represented party, those obligations are shared by that broker's sponsored licensees as well.
+#### Example
+
+Broker Natalie sponsors 15 licensees. One of her sales associates, Audrey, gets a seller to sign a listing agreement.
+
+Who owes that seller duties? Well, because agency is created at the broker level, Broker Natalie and ALL of her 15 sponsored licensees owe the seller duties.
+
+And who are the special agents representing the seller? That's right: Broker Natalie and ALL of her 15 sponsored licensees.
+
+All for one and one for all!
+Agency relationships are created at the broker level has certain implications:
+- **Commission:** The commission rate is negotiated between the party and the broker.
+- **Listings:** If a sales associate switches brokerages, the parties the licensee was working with before the switch remain with the sales associate's former sponsoring broker.
+End of chapter example:
+A special agent's scope of authority is narrow and usually:
+- short term
