@@ -119,9 +119,15 @@ When Anna complains to the state real estate commission, Broker Joseph is asked 
 Answer:
 Because Tatiana was not authorized to list commercial properties and because Joseph has a paper with Tatiana's signature showing that she understood she was not approved to list commercial real estate, Tatiana may face a possible suspension or revocation of her real estate license and any potential financial restitution. If Joseph were unaware of and did not approve of Tatiana's involvement in this transaction, only Tatiana should be held responsible
 
-
-
-
+#### Example:
 Sales Associate Andie's supervising broker is Geni. In their general agency relationship, who is the party being represented?
 
 Geni
+
+## General Agent: Broker Responsibility
+- sponsored licensees have the ability to bind their broker to the actions the licensees take 
+- the broker can be held responsible for the approved actions of their sponsored licensees.
+
+#### Discipline, Violations, and Penalties
+per Florida Statute 475.25(1)(q), the **Commission may suspend or revoke a license or impose a fine up to $5,000 per violation** of any provision of Sections 475.2755 or 475.278, including the duties owed under those sections.
+
