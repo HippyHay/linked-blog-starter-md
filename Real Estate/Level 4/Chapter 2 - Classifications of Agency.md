@@ -86,5 +86,6 @@ License holders operating as **property managers** also **require general age
 1. Their duties are **ongoing** and multifaceted within their area of concern, so they need a **wider scope of authority**.
 2. They typically have the **power to bind** the principal (property owner) to rental agreements and other needed contracts.
 
-
+Which of the following is an example of a general agency relationship?
+- a broker and a sponsored licensee 
 
