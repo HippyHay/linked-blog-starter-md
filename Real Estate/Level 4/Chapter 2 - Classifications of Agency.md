@@ -56,3 +56,9 @@ A **general agent** is one who is **authorized to manage all of a party's aff
 
 **special agent < general agent < universal agent**
 
+A general agent is typically someone authorized to represent the **ongoing** business interests of another
+### Ongoing
+
+
+
+
