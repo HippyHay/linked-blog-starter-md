@@ -137,3 +137,15 @@ Information that is placed on record with the Department of Business and Profess
 - The sales associate’s and broker’s license status (active or inactive)
 - The person’s involvement as an officer, director, or partner of a real estate business
 
+![A flow chart showing an agency relationship triangle.](https://d1u7daj727sadp.cloudfront.net/images/FL_AgencyRelationshipTriangle_4427.png)
+
+### Special Agency
+The broker has a _special agency_ relationship with the party.
+Meaning that the represented party has entrusted the broker to perform specific actions on their behalf (such as selling a home).
+### General Agency
+Brokers, on the other hand, have a _general agency_ relationship with their sponsored licensees. This empowers those licensees to fulfill the duties brokers owe the applicable party.
+ Consequently, that general agency relationship holds brokers responsible for the actions performed by their sponsored licensees.
+
+### Universal Agency
+
+
