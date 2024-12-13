@@ -147,5 +147,25 @@ Brokers, on the other hand, have a _general agency_ relationship with their sp
  Consequently, that general agency relationship holds brokers responsible for the actions performed by their sponsored licensees.
 
 ### Universal Agency
+**Universal agency** is the most broad type of agency.
+Universal agency gives agents the power to act on behalf of the party _AND_ make decisions on behalf of the party in all business matters of concern.
 
+This is different from general agency in that:
+- A general agent might have broad authority to act, but regarding ONLY a specific business concern of the party.
+- A universal agent has the scope of authority to act on the party's behalf for ALL business concerns.
+#### Power of Attorney
+rare,  universal agency is usually granted to an agent via a **power of attorney** — a legal instrument used to confer the right of one individual to act on behalf of another.
+
+As an **attorney-in-fact**, has the power to sign legal documents on behalf of the party they represent.
+
+Example:
+An adult son is asked to oversee the affairs of his elderly father. The acceptance of this responsibility comes with authority (universal agency) for the adult son to monitor his father's health and well-being and to manage all financial aspects of his father's estate.
+
+#### Universal Agency in Real Estate
+Although the use of universal agency rarely happens in real estate, it can have its place. One possible scenario in which a party may employ universal agency is if the party is abroad and while trying to sell their home. They may want to give their agent power of attorney to complete the sale of their property in their absence.
+
+RECAP:
+- The broadest form of agency
+- Uncommon in real estate; and, when needed,
+- Usually be granted via a general power of attorney
 
