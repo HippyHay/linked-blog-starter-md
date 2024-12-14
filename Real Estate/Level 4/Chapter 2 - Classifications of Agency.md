@@ -169,3 +169,16 @@ RECAP:
 - Uncommon in real estate; and, when needed,
 - Usually be granted via a general power of attorney
 
+![A nested venn diagram of Agency Classifications. Within universal agency there is general agency and the special agency.](https://d1u7daj727sadp.cloudfront.net/images/FL_AgencyClassifications_4635.png)
+
+
+Facts of a feather:
+No agency:
+Universal Agency:
+General agency:
+- the broker-sponsored licensee relationship
+- a broad scope of authority within a limited area of concern
+special agency:
+
+a party rejecting an offer of representation
+
