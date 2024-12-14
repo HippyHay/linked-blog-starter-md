@@ -174,11 +174,16 @@ RECAP:
 
 Facts of a feather:
 No agency:
+- a party rejecting an offer of representation
 Universal Agency:
+- the broadest form of agency
+- usually given via a power of attorney
 General agency:
 - the broker-sponsored licensee relationship
 - a broad scope of authority within a limited area of concern
 special agency:
+- the most limited form of agency
+- the broker-party relationship
 
 a party rejecting an offer of representation
 
