@@ -11,3 +11,10 @@ While we're on the subject of money, it should be noted that in real estate, com
 - Another source
 - Or some mix of the above
 
+### The Components of Agency
+Creation of agency requires two essential components:
+1. Consent
+2. Control
+
+
+
