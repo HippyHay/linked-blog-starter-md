@@ -49,6 +49,10 @@ While express oral agency is a valid way to create agency, the prudent licensee 
 At a minimum, the written agreement should:
 - Address the duties of both parties
 - Sufficiently protect both parties
+**A written agency contract is your best insurance for making sure you get paid** and outlining the who, what, where, and when of compensation. Oral agency is NOT the best way to outline compensation.
+
+
+
 
 
 
