@@ -15,6 +15,9 @@ While we're on the subject of money, it should be noted that in real estate, com
 Creation of agency requires two essential components:
 1. Consent
 2. Control
-
-
+### Consent
+- created as s result of mutual consent or agreement between the agent and  the party they will represent.
+**both the agent AND the party to be represented must give consent**
+### Control
+**Control** has to do with the idea that the agent (broker or sponsored sales associate) has authority to act on behalf of the customer or client.
 
