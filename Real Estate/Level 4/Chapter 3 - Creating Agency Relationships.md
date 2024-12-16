@@ -41,6 +41,16 @@ In real estate, the best tools used to express express agency (see what I did th
 ### Express Oral Agency
 While express oral agency is a valid way to create agency, the prudent licensee will always confirm and clarify it with written express agency.
 
+## About That Express Oral Agency
+- It is **more difficult to enforce**.
+- It is more likely to lead to complaints and/or lawsuits (when compared to written agency).
+- It typically does not allow a listing agent to use the MLS like written listing agreements do.
+### Best Practices
+At a minimum, the written agreement should:
+- Address the duties of both parties
+- Sufficiently protect both parties
+
+
 
 
 
