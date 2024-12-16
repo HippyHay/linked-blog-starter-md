@@ -20,4 +20,29 @@ Creation of agency requires two essential components:
 **both the agent AND the party to be represented must give consent**
 ### Control
 **Control** has to do with the idea that the agent (broker or sponsored sales associate) has authority to act on behalf of the customer or client.
+## Describing Agency Creation
+Agency can be described in terms of:
+- The **manner** in which it is created
+- The degree of **authority** and **liability** it brings
+- The **form** that it takes
+### Agency Creation
+Agency can be created:
+- Orally
+- In writing
+- By implication or action
+But while that is true, it bears repeating that **it is best to create agency in writing.**
+## Express Agency
+Express agency **can be created in written or oral form**. Both forms are considered valid, with **the written form offering more clarity and protection for both parties**. In either case, **express agency is created when a party explicitly appoints an agent to act on their behalf**.
+- most popular way that agency is created.
+### The Tools of Express Agency and Express Authority
+In real estate, the best tools used to express express agency (see what I did there?) are the:
+- Listing agreement
+- Buyer-representation agreement
+### Express Oral Agency
+While express oral agency is a valid way to create agency, the prudent licensee will always confirm and clarify it with written express agency.
+
+
+
+
+
 
